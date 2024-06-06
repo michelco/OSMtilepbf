@@ -1,0 +1,808 @@
+3840	2	0Sport Facilities		
+3830	1	0Sports		
+3900	3	0Golf		
+7620	3	0Wood		
+4030	2	0Sport		
+3600	2	1Facilities		
+3520	2	0Social Facility		
+2330	2	0Airport		
+1830	3	0Railway Ssy		
+2240	2	0Public Transport (Legacy)		
+4580	2	0Motorsport		
+7450	2	1Geography		
+4640	1	0Man Made		
+660	2	0Waypoints		
+4650	2	1Man Made		
+7570	2	0Nature		
+750	3	0Traffic Calming		
+4220	3	0Skiing		
+4330	2	0Sport (Ball)		
+4230	4	0Downhill Piste		
+3420	2	0Emergency		
+3170	2	0Public Building		
+3090	2	0Place of Worship		
+2590	2	0Food+Drinks		
+2480	2	0Accommodation		
+7840	2	0Land use		
+2780	2	0Leisure		
+7670	3	0Forest		
+2680	2	0Tourism		
+1510	2	0Shipping		
+3020	2	0Culture		
+960	2	0Barriers		
+1870	2	0Aerialway		
+1620	1	0Transport		
+2470	1	0Facilities		
+1630	2	0Railway		
+3270	2	0Education		
+1970	2	0Car		
+1260	1	0Water		
+3330	2	0Health		
+1270	2	1Water		
+6260	2	0For the body		
+6200	2	0Printed Material		
+6610	1	0Offices		
+6390	2	0Other		
+2130	2	0Bicycle		
+500	2	0Ways		
+6100	2	0Home decoration		
+2100	2	0Motorcycle		
+20	2	0Streets		
+7270	2	0Places		
+0	0	0Features		
+10	1	0Highways		
+7090	1	0Geography		
+6840	1	0Craft		
+7110	3	1Administrative		
+7100	2	0Boundaries		
+5630	1	0Shops		
+5490	2	0Historic Places		
+5860	2	0Clothes		
+5640	2	0Food		
+5000	2	0Bridges		
+5100	2	0Power		
+5050	2	0Military		
+600	3	0Cycle Lane Track		
+5120	3	0Power Generator		
+5960	2	0Electronic		
+8160	1	0Other Wildcard		
+510	3	0Track		
+2180	2	0Public Transport		
+6050	2	0Cash		
+7210	4	0Admin_level 10	[admin_level]=10	admin_level_10	65535	96	65535		0	143943	0	
+7120	4	0Admin_level 2	[admin_level]=2	admin_level_2	65535	105	65535		0	27111	0	
+7130	4	0Admin_level 2 Maritime	[admin_level]=2 [maritime]=yes	admin_level_2 maritime	65535	104	65535		0	6461	0	
+7140	4	0Admin_level 3	[admin_level]=3	admin_level_3	65535	103	65535		0	4554	0	
+7150	4	0Admin_level 4	[admin_level]=4	admin_level_4	65535	102	65535		0	73958	0	
+7160	4	0Admin_level 5	[admin_level]=5	admin_level_5	65535	101	65535		0	37916	0	
+7170	4	0Admin_level 6	[admin_level]=6	admin_level_6	65535	100	65535		0	189320	0	
+7180	4	0Admin_level 7	[admin_level]=7	admin_level_7	65535	99	65535		0	90677	0	
+7190	4	0Admin_level 8	[admin_level]=8	admin_level_8	65535	98	65535		0	483759	0	
+7200	4	0Admin_level 9	[admin_level]=9	admin_level_9	65535	97	65535		0	123255	0	
+3820	3	0Billboard	[advertising]=billboard	advertising_billboard	319	65535	65535		0	0	0	
+3810	3	0Advertising Column	[advertising]=column	advertising_column	318	65535	289		0	0	440	
+1880	3	0Cable Car	[aerialway]=cable_car	aerialway_cable_car	65535	88	65535		0	1257	0	
+1890	3	0Chair Lift	[aerialway]=chair_lift	aerialway_chair_lift	65535	87	65535		0	8835	0	
+1920	3	0Drag Lift	[aerialway]=drag_lift	aerialway_drag_lift	65535	163	65535		0	4346	0	
+1900	3	0Gondola	[aerialway]=gondola	aerialway_gondola	65535	161	65535		0	1682	0	
+1940	3	0Goods	[aerialway]=goods	aerialway_goods	65535	165	65535		0	2467	0	
+1930	3	0Magic Carpet	[aerialway]=magic_carpet	aerialway_magic_carpet	65535	164	65535		0	2370	0	
+1910	3	0Mixed Lift	[aerialway]=mixed_lift	aerialway_mixed_lift	65535	162	65535		0	98	0	
+1960	3	0Pylon	[aerialway]=pylon	aerialway_pylon	236	65535	65535		0	0	0	
+1950	3	0Aerialway Station	[aerialway]=station	aerialway_station	116	65535	187		0	0	3767	
+2340	3	0Airport Ground	[aeroway]=aerodrome	aeroway_aerodrome	120	65535	84		0	0	19690	
+2390	3	0Apron	[aeroway]=apron	aeroway_apron	65535	65535	85		0	0	41420	
+2460	3	0Airport Gate	[aeroway]=gate	aeroway_gate	118	65535	65535		0	0	0	
+2410	3	0Hangar	[aeroway]=hangar	aeroway_hangar	254	65535	204		0	0	60771	
+2380	3	0Helipad	[aeroway]=helipad	aeroway_helipad	119	65535	80		0	0	37499	
+2370	3	0Holding Position	[aeroway]=holding_position	aeroway_holding_position	252	65535	65535		0	0	0	
+2430	3	0Navigationaid	[aeroway]=navigationaid	aeroway_navigationaid	256	65535	65535		0	0	0	
+2400	3	0Plane Parking Position	[aeroway]=parking_position	aeroway_parking_position	253	168	65535		0	50159	0	
+2350	3	0Runway	[aeroway]=runway	aeroway_runway	65535	82	82	areayes	0	60655	2055	
+2360	3	0Taxiway	[aeroway]=taxiway	aeroway_taxiway	65535	81	81	areayes	0	266811	1067	
+2450	3	0Terminal	[aeroway]=terminal	aeroway_terminal	258	65535	83		0	0	8738	
+2440	3	0Windsock	[aeroway]=windsock	aeroway_windsock	257	65535	65535		0	0	0	
+2420	3	0Airport Beacon	[airmark]=beacon	airmark_beacon	255	65535	65535		0	0	0	
+3060	3	0Arts Centre	[amenity]=arts_centre	amenity_arts_centre	286	65535	243		0	0	12592	
+6080	3	0Automated Teller Machine	[amenity]=atm	amenity_atm	40	65535	65535		0	0	0	
+3390	3	0Baby Hatch Safe Haven	[amenity]=baby_hatch	amenity_baby_hatch	291	65535	269		0	0	112	
+6060	3	0Bank	[amenity]=bank	amenity_bank	1	65535	440		0	0	91104	
+2670	3	0Bar	[amenity]=bar	amenity_bar	28	65535	219		0	0	29662	
+2940	3	0Public Grill	[amenity]=bbq	amenity_bbq	278	65535	232		0	0	1614	
+3740	3	0Bench	[amenity]=bench	amenity_bench	48	170	65535		0	31980	0	
+2140	3	0Bicycle Parking	[amenity]=bicycle_parking	amenity_bicycle_parking	16	166	106		0	1864	85286	
+2160	3	0Bicycle Rental	[amenity]=bicycle_rental	amenity_bicycle_rental	2	65535	198		0	0	2254	
+2170	3	0Public Bicycle Repair Station	[amenity]=bicycle_repair_station	amenity_bicycle_repair_station	245	65535	199		0	0	122	
+2660	3	0Beer Garden	[amenity]=biergarten	amenity_biergarten	30	65535	218		0	0	4681	
+3010	3	0Brothel	[amenity]=brothel	amenity_brothel	285	65535	239		0	0	1064	
+6070	3	0Money Exchange	[amenity]=bureau_de_change	amenity_bureau_de_change	462	65535	441		0	0	600	
+2290	3	0Bus Station	[amenity]=bus_station	amenity_bus_station	3	65535	202		0	0	25226	
+2630	3	0Cafe	[amenity]=cafe	amenity_cafe	31	65535	215		0	0	72409	
+2080	3	0Rental	[amenity]=car_rental	amenity_car_rental	242	65535	193		0	0	4994	
+2090	3	0Sharing	[amenity]=car_sharing	amenity_car_sharing	4	65535	194		0	0	751	
+2030	3	0Wash	[amenity]=car_wash	amenity_car_wash	157	65535	188		0	0	43919	
+2990	3	0Casino	[amenity]=casino	amenity_casino	283	65535	237		0	0	2176	
+2020	3	0Charging Station	[amenity]=charging_station	amenity_charging_station	239	65535	65535		0	0	0	
+2790	3	0Movie Theater Cinema	[amenity]=cinema	amenity_cinema	12	65535	223		0	0	11805	
+3350	3	0Clinic	[amenity]=clinic	amenity_clinic	174	65535	265		0	0	56175	
+3670	3	0Clock	[amenity]=clock	amenity_clock	310	65535	65535		0	0	0	
+3310	3	0College	[amenity]=college	amenity_college	37	65535	263		0	0	36976	
+3190	3	0Community Centre	[amenity]=community_centre	amenity_community_centre	176	65535	253		0	0	95864	
+3800	3	0Compressed Air	[amenity]=compressed_air	amenity_compressed_air	317	65535	65535		0	0	0	
+3210	3	0Courthouse	[amenity]=courthouse	amenity_courthouse	13	65535	255		0	0	14052	
+3370	3	0Dentist	[amenity]=dentist	amenity_dentist	156	65535	267		0	0	16999	
+3360	3	0Doctor's Office	[amenity]=doctors	amenity_doctors	145	65535	266		0	0	28934	
+3770	3	0Drinking Water	[amenity]=drinking_water	amenity_drinking_water	45	65535	65535		0	0	0	
+3320	3	0Driving School	[amenity]=driving_school	amenity_driving_school	290	65535	264		0	0	5394	
+3200	3	0Embassy	[amenity]=embassy	amenity_embassy	9	65535	254		0	0	1	
+2610	3	0Fast Food	[amenity]=fast_food	amenity_fast_food	32	65535	213		0	0	121361	
+1520	3	0Ferry Terminal	[amenity]=ferry_terminal	amenity_ferry_terminal	224	65535	182		0	0	2170	
+3250	3	0Fire Station	[amenity]=fire_station	amenity_fire_station	6	65535	259		0	0	74891	
+2620	3	0Food Court	[amenity]=food_court	amenity_food_court	261	65535	214		0	0	5204	
+4920	3	0Fountain	[amenity]=fountain	amenity_fountain	143	65535	361		0	0	45788	
+2010	3	0Fuel	[amenity]=fuel	amenity_fuel	7	65535	104		0	0	200174	
+8020	3	0Graveyard	[amenity]=grave_yard	amenity_grave_yard	557	65535	11		0	0	99474	
+940	3	0Grit Bin	[amenity]=grit_bin	amenity_grit_bin	201	65535	65535		0	0	0	
+3340	3	0Hospital	[amenity]=hospital	amenity_hospital	8	65535	49		0	0	88664	
+3760	3	0Hunting Stand	[amenity]=hunting_stand	amenity_hunting_stand	137	65535	65535		0	0	0	
+2640	3	0Ice cream	[amenity]=ice_cream	amenity_ice_cream	262	65535	216		0	0	6768	
+3650	3	0Internet Cafe	[amenity]=internet_cafe	amenity_internet_cafe	308	65535	283		0	0	1393	
+3280	3	0Kindergarten	[amenity]=kindergarten	amenity_kindergarten	38	65535	261		0	0	142441	
+3050	3	0Library	[amenity]=library	amenity_library	10	65535	242		0	0	35537	
+5780	3	0Public Market	[amenity]=marketplace	amenity_marketplace	443	65535	107		0	0	45937	
+2110	3	0Motorcycle Parking	[amenity]=motorcycle_parking	amenity_motorcycle_parking	243	65535	195		0	0	11148	
+2980	3	0Night Club	[amenity]=nightclub	amenity_nightclub	282	65535	236		0	0	5444	
+3540	3	0Nursing Home (Legacy)	[amenity]=nursing_home	amenity_nursing_home (Legacy) 	301	65535	275		0	0	5119	
+1980	3	0Parking	[amenity]=parking	amenity_parking	15	65535	48		0	0	4495525	
+2000	3	0Parking Entrance	[amenity]=parking_entrance	amenity_parking_entrance	238	65535	65535		0	0	0	
+1990	3	0Parking Space	[amenity]=parking_space	amenity_parking_space	237	65535	96		0	0	1888295	
+3380	3	0Pharmacy	[amenity]=pharmacy	amenity_pharmacy	17	65535	268		0	0	39779	
+3680	3	0Photo booth	[amenity]=photo_booth	amenity_photo_booth	311	65535	65535		0	0	0	
+3160	3	0Other Place of Worship	[amenity]=place_of_worship	amenity_place_of_worship	26	65535	51		0	0	47685	
+3130	3	0Buddhist Temple	[amenity]=place_of_worship [religion]=buddhist	amenity_buddhist temple	23	65535	249		0	0	32623	
+3100	3	0Church	[amenity]=place_of_worship [religion]=christian	amenity_church 	18	65535	246		0	0	581675	
+3140	3	0Hindu Temple	[amenity]=place_of_worship [religion]=hindu	amenity_hindu temple 	22	65535	250		0	0	18919	
+3120	3	0Synagogue	[amenity]=place_of_worship [religion]=jewish	amenity_synagogue 	21	65535	248		0	0	4423	
+3110	3	0Mosque	[amenity]=place_of_worship [religion]=muslim	amenity_mosque 	19	65535	247		0	0	140833	
+3150	3	0Shinto Shrine	[amenity]=place_of_worship [religion]=shinto	amenity_shinto shrine 	24	65535	251		0	0	15614	
+3230	3	0Police	[amenity]=police	amenity_police	5	65535	257		0	0	55112	
+3630	3	0Post Box	[amenity]=post_box	amenity_post_box	46	65535	65535		0	0	0	
+3260	3	0Post Office	[amenity]=post_office	amenity_post_office	27	65535	260		0	0	38555	
+3220	3	0Prison	[amenity]=prison	amenity_prison	34	65535	256		0	0	10878	
+2650	3	0Pub	[amenity]=pub	amenity_pub	29	65535	217		0	0	42227	
+3240	3	0Ranger Station	[amenity]=ranger_station	amenity_ranger_station	289	65535	258		0	0	2798	
+3700	3	0Recycling Centre	[amenity]=recycling [recycling_type]=centre	amenity_recycling_centre	312	65535	286		0	0	19125	
+3690	3	0Recycling Container	[amenity]=recycling [recycling_type]=container	amenity_recycling_container	41	65535	285		0	0	9193	
+2600	3	0Restaurant	[amenity]=restaurant	amenity_restaurant	33	65535	212		0	0	259289	
+3730	3	0Sanitary Dump Station	[amenity]=sanitary_dump_station	amenity_sanitary_dump_station	314	65535	287		0	0	415	
+2890	3	0Sauna	[amenity]=sauna [leisure]=sauna	amenity_sauna leisure	276	65535	230		0	0	0	
+3290	3	0School	[amenity]=school	amenity_school	36	65535	50		0	0	748951	
+3750	3	0Shelter	[amenity]=shelter	amenity_shelter	0	65535	97		0	0	276155	
+3620	3	0Shower	[amenity]=shower	amenity_shower	307	65535	282		0	0	2490	
+3560	3	0Assisted Living	[amenity]=social_facility [social_facility]=assisted_living	amenity_social_assisted_living	303	65535	277		0	0	21777	
+3590	3	0Food Bank	[amenity]=social_facility [social_facility]=food_bank	amenity_social_food_bank	306	65535	280		0	0	736	
+3550	3	0Group Home	[amenity]=social_facility [social_facility]=group_home	amenity_social_group_home	302	65535	276		0	0	20404	
+3530	3	0Nursing Home	[amenity]=social_facility [social_facility]=nursing_home	amenity_nursing_home	153	65535	274		0	0	17468	
+3570	3	0Outreach	[amenity]=social_facility [social_facility]=outreach	amenity_social_outreach	304	65535	278		0	0	2722	
+3580	3	0Social Shelter	[amenity]=social_facility [social_facility]=shelter	amenity_social_shelter	305	65535	279		0	0	2212	
+3000	3	0Strip Club	[amenity]=stripclub	amenity_stripclub	284	65535	238		0	0	298	
+3080	3	0Studio	[amenity]=studio	amenity_studio	288	65535	245		0	0	4464	
+2320	2	0Taxi	[amenity]=taxi	amenity_taxi	167	65535	203		0	0	5289	
+3640	3	0Telephone	[amenity]=telephone	amenity_telephone	42	65535	65535		0	0	0	
+3040	3	0Theatre	[amenity]=theatre	amenity_theatre	11	65535	241		0	0	23658	
+3610	3	0Toilets Restrooms	[amenity]=toilets	amenity_toilets	44	65535	281		0	0	104007	
+3180	3	0Town Hall	[amenity]=townhall	amenity_townhall	147	65535	252		0	0	84218	
+3300	3	0University	[amenity]=university	amenity_university	35	65535	262		0	0	36582	
+6590	2	0Vending Machine	[amenity]=vending_machine	amenity_vending_machine	139	65535	65535		0	0	0	
+2230	3	0Ticket Machine	[amenity]=vending_machine [vending]=public_transport_tickets	amenity_machine_ticket	249	65535	65535		0	0	0	
+3410	3	0Veterinary	[amenity]=veterinary	amenity_veterinary	177	65535	271		0	0	13704	
+3710	3	0Waste Basket Trash Can	[amenity]=waste_basket	amenity_waste_basket	135	65535	65535		0	0	0	
+3720	3	0Waste Disposal Dumpster	[amenity]=waste_disposal	amenity_waste_disposal	313	65535	65535		0	0	0	
+3780	3	0Water Point	[amenity]=water_point	amenity_water_point	315	65535	65535		0	0	0	
+3790	3	0Animal watering place	[amenity]=watering_place	amenity_watering_place	316	65535	288		0	0	5394	
+980	3	0Block	[barrier]=block	barrier_block	131	142	165	areayes	0	5897	493	
+990	3	0Bollard	[barrier]=bollard	barrier_bollard	130	143	65535		0	34204	0	
+1050	3	0Border Control	[barrier]=border_control	barrier_border_control	208	65535	65535		0	0	0	
+1200	3	0Bump Gate	[barrier]=bump_gate	barrier_bump_gate	214	65535	65535		0	0	0	
+1020	3	0Bus Trap	[barrier]=bus_trap	barrier_bus_trap	205	65535	65535		0	0	0	
+1010	3	0Cattle Grid	[barrier]=cattle_grid	barrier_cattle_grid	204	65535	65535		0	0	0	
+1220	3	0Chain	[barrier]=chain	barrier_chain	215	150	175	areayes	0	5717	10	
+1100	3	0City Wall	[barrier]=city_wall	barrier_city_wall	65535	145	170		0	40174	6213	
+1000	3	0Cycle Barrier	[barrier]=cycle_barrier	barrier_cycle_barrier	203	65535	65535		0	0	0	
+1130	3	0Barrier Ditch	[barrier]=ditch	barrier_ditch	65535	148	173	areayes	0	62659	731	
+970	3	0Embankment	[barrier]=embankment	barrier_embankment	65535	93	164		0	4309	99	
+1150	3	0Entrance (Barrier Opening)	[barrier]=entrance	barrier_entrance	211	65535	65535		0	0	0	
+1070	3	0Fence	[barrier]=fence	barrier_fence	65535	91	167		0	5554530	1081101	
+1160	3	0Gate	[barrier]=gate	barrier_gate	126	65535	65535		0	0	0	
+1080	3	0Guard Rail	[barrier]=guard_rail	barrier_guard_rail	65535	144	168	areayes	0	127627	39	
+1190	3	0Hampshire Gate	[barrier]=hampshire_gate	barrier_hampshire_gate	213	65535	65535		0	0	0	
+1060	3	0Hedge	[barrier]=hedge	barrier_hedge	65535	92	98		0	2723228	166417	
+1120	3	0Jersey Barrier	[barrier]=jersey_barrier	barrier_jersey_barrier	209	147	172	areayes	0	15322	132	
+1140	3	0Kerb	[barrier]=kerb	barrier_kerb	210	149	174	areayes	0	311053	5230	
+1210	3	0Kissing Gate	[barrier]=kissing_gate	barrier_kissing_gate	127	65535	65535		0	0	0	
+1170	3	0Lift Gate	[barrier]=lift_gate	barrier_lift_gate	128	65535	65535		0	0	0	
+1110	3	0Retaining Wall	[barrier]=retaining_wall	barrier_retaining_wall	65535	146	171	areayes	0	441769	2106	
+1250	3	0Sally Port	[barrier]=sally_port	barrier_sally_port	217	65535	65535		0	0	0	
+1030	3	0Spikes	[barrier]=spikes	barrier_spikes	206	65535	65535		0	0	0	
+1230	3	0Stile	[barrier]=stile	barrier_stile	129	65535	65535		0	0	0	
+1180	3	0Swing Gate	[barrier]=swing_gate	barrier_swing_gate	212	65535	65535		0	0	0	
+1040	3	0Toll Booth	[barrier]=toll_booth	barrier_toll_booth	207	65535	166		0	0	4025	
+1240	3	0Turnstile	[barrier]=turnstile	barrier_turnstile	216	65535	65535		0	0	0	
+1090	3	0Wall	[barrier]=wall	barrier_wall	65535	90	169		0	3785682	434488	
+150	3	0Bicycle Road	[bicycle_road]=yes [bicycle]=designated	bicycle_road	65535	118	123	areayes	0	14758	2	
+7260	3	0Maritime	[boundary]=maritime	boundary_maritime	65535	186	548		0	3296	221	
+7240	3	0National Park	[boundary]=national_park	boundary_national_park	65535	65535	99		0	0	2743	
+7220	3	0Political	[boundary]=political	boundary_political	65535	188	65535		0	7335	0	
+7230	3	0Postal Code	[boundary]=postal_code	boundary_postal_code	65535	185	65535		0	25559	0	
+7250	3	0Protected Area	[boundary]=protected_area	boundary_protected_area	65535	65535	547		0	0	63086	
+5020	3	0Movable Bridge	[bridge]=movable	bridge_movable	65535	178	65535		0	0	0	
+5390	3	0Transformer Tower	[building]=transformer_tower	building_transformer_tower	423	65535	392		0	0	34849	
+7330	3	0Capital	[capital]=yes	capital_yes	152	65535	65535		0	0	0	
+5560	3	0Grave	[cemetery]=grave	cemetery_grave	432	65535	397		0	0	49839	
+6850	2	0Beekeeper	[craft]=beekeeper	craft_beekeeper	520	65535	511		0	0	2466	
+7070	2	0Blacksmith	[craft]=blacksmith	craft_blacksmith	542	65535	533		0	0	868	
+6860	2	0Brewery	[craft]=brewery	craft_brewery	521	65535	512		0	0	3719	
+6980	2	0Carpenter	[craft]=carpenter	craft_carpenter	533	65535	524		0	0	4992	
+6880	2	0Caterer	[craft]=caterer	craft_caterer	523	65535	514		0	0	1276	
+6920	2	0Electrician	[craft]=electrician	craft_electrician	527	65535	518		0	0	2978	
+7030	2	0Gardener	[craft]=gardener	craft_gardener	538	65535	529		0	0	2298	
+7010	2	0Handicraft	[craft]=handicraft	craft_handicraft	536	65535	527		0	0	866	
+6940	2	0Hvac	[craft]=hvac	craft_hvac	529	65535	520		0	0	2298	
+6900	2	0Key cutter	[craft]=key_cutter	craft_key_cutter	525	65535	516		0	0	360	
+6910	2	0Locksmith	[craft]=locksmith	craft_locksmith	526	65535	517		0	0	212	
+7080	2	0Metal construction	[craft]=metal_construction	craft_metal_construction	543	65535	534		0	0	3689	
+6950	2	0Painter	[craft]=painter	craft_painter	530	65535	521		0	0	1163	
+7000	2	0Photographer	[craft]=photographer	craft_photographer	535	65535	526		0	0	1244	
+6930	2	0Plumber	[craft]=plumber	craft_plumber	528	65535	519		0	0	2125	
+7020	2	0Pottery	[craft]=pottery	craft_pottery	537	65535	528		0	0	619	
+6990	2	0Roofer	[craft]=roofer	craft_roofer	534	65535	525		0	0	1441	
+7050	2	0Sawmill	[craft]=sawmill	craft_sawmill	540	65535	531		0	0	4912	
+7040	2	0Shoemaker	[craft]=shoemaker	craft_shoemaker	539	65535	530		0	0	789	
+7060	2	0Stonemason	[craft]=stonemason	craft_stonemason	541	65535	532		0	0	1862	
+6960	2	0Tiler	[craft]=tiler	craft_tiler	531	65535	522		0	0	445	
+6890	2	0Upholsterer	[craft]=upholsterer	craft_upholsterer	524	65535	515		0	0	527	
+6970	2	0Window construction	[craft]=window_construction	craft_window_construction	532	65535	523		0	0	1586	
+6870	2	0Winery	[craft]=winery	craft_winery	522	65535	513		0	0	5179	
+3430	3	0Ambulance Station	[emergency]=ambulance_station	emergency_ambulance_station	293	65535	272		0	0	7039	
+3490	3	0Assembly Point	[emergency]=assembly_point	emergency_assembly_point	299	65535	65535		0	0	0	
+3440	3	0Automated Defibrillator	[emergency]=defibrillator	emergency_defibrillator	294	65535	65535		0	0	0	
+3450	3	0Fire Extinguisher	[emergency]=fire_extinguisher	emergency_fire_extinguisher	295	65535	65535		0	0	0	
+3460	3	0Fire Hose	[emergency]=fire_hose	emergency_fire_hose	296	65535	65535		0	0	0	
+3470	3	0Fire Hydrant	[emergency]=fire_hydrant	emergency_fire_hydrant	297	65535	65535		0	0	0	
+3500	3	0Emergency Phone	[emergency]=phone	emergency_phone	150	65535	65535		0	0	0	
+3510	3	0Siren	[emergency]=siren	emergency_siren	300	65535	65535		0	0	0	
+3480	3	0Water Tank	[emergency]=water_tank	emergency_water_tank	298	65535	273		0	0	7240	
+490	3	0Ford	[ford]=yes	ford_yes	102	130	65535		0	119042	0	
+5130	4	0Biofuel Power Generator	[generator:source]=biofuel [generator:method]=combustion	generator_biofuel_power	402	65535	372		0	0	129	
+5140	4	0Biogas Power Generator	[generator:source]=biogas [generator:method]=combustion	generator_biogas_power	403	65535	373		0	0	2073	
+5150	4	0Biomass Power Generator	[generator:source]=biomass	generator_biomass_power	404	65535	374		0	0	1874	
+5160	4	0Coal Power Generator	[generator:source]=coal [generator:method]=combustion	generator_coal_power	405	65535	375		0	0	1169	
+5190	4	0Diesel Power Generator	[generator:source]=diesel [generator:method]=combustion	generator_diesel_power	408	65535	378		0	0	1281	
+5170	4	0Gas Power Generator	[generator:source]=gas [generator:method]=combustion	generator_gas_power	406	65535	376		0	0	2743	
+5200	4	0Gasoline Power Generator	[generator:source]=gasoline [generator:method]=combustion	generator_gasoline_power	409	65535	379		0	0	32	
+5280	4	0Geothermal Power Generator	[generator:source]=geothermal	generator_source_geothermal	417	65535	387		0	0	169	
+5240	4	0Water Turbine	[generator:source]=hydro	generator_source_hydro	413	65535	383		0	0	3829	
+5210	4	0Nuclear Reactor	[generator:source]=nuclear	generator_source_nuclear	410	65535	380		0	0	398	
+5180	4	0Oil Power Generator	[generator:source]=oil [generator:method]=combustion	generator_oil_power	407	65535	377		0	0	403	
+5270	4	0Osmotic Power Generator	[generator:source]=osmotic	generator_source_osmotic	416	65535	386		0	0	2	
+5220	4	0Solar Power Generator	[generator:source]=solar	generator_source_solar	411	65535	381		0	0	1175643	
+5250	4	0Tidal Water Turbine	[generator:source]=tidal	generator_source_tidal	414	65535	384		0	0	7	
+5230	4	0Waste Power Generator	[generator:source]=waste	generator_source_waste	412	65535	382		0	0	168	
+5260	4	0Wave Energy Converter	[generator:source]=wave	generator_source_wave	415	65535	385		0	0	5	
+5290	4	0Wind Turbine	[generator:source]=wind [generator:method]=wind_turbine	generator_wind_turbine	77	65535	388		0	0	1330	
+5550	3	0Palaeontological Site	[geological]=palaeontological_site	geological_palaeontological_site	431	65535	396		0	0	189	
+3950	4	0Golf Bunker	[golf]=bunker	golf_bunker	65535	65535	293		0	0	551273	
+3990	4	0Fairway	[golf]=fairway [surface]=grass	golf_fairway surface_grass	65535	65535	297		0	0	214127	
+590	3	0Dedicated Bridleway	[highway]=bridleway	highway_bridleway	65535	50	156	areayes	0	105955	22	
+1720	3	0Bus Guideway	[highway]=bus_guideway	highway_bus_guideway	65535	65	65535		0	928	0	
+2300	3	0Bus Stop	[highway]=bus_stop	highway_bus_stop	99	65535	65535		0	0	0	
+740	3	0Pedestrian Crossing	[highway]=crossing	highway_crossing	183	65535	65535		0	0	0	
+610	3	0Dedicated Cycleway	[highway]=cycleway	highway_cycleway	65535	51	157	areayes	0	1632845	78	
+930	3	0Elevator	[highway]=elevator	highway_elevator	200	141	163	areayes	0	4151	312	
+3400	3	0Emergency Access Point	[highway]=emergency_access_point	highway_emergency_access_point	292	65535	270		0	0	144	
+200	3	0Escape	[highway]=escape	highway_escape	65535	119	65535		0	1423	0	
+640	3	0Dedicated Footway	[highway]=footway	highway_footway	65535	49	160	areayes	0	20306364	52029	
+720	3	0Give Way	[highway]=give_way	highway_give_way	98	65535	65535		0	0	0	
+160	3	0Living Street	[highway]=living_street	highway_living_street	65535	63	67	areayes	0	1683018	1360	
+910	3	0Highway milestone	[highway]=milestone	highway_milestone	198	65535	65535		0	0	0	
+730	3	0Mini-Roundabout	[highway]=mini_roundabout	highway_mini_roundabout	103	65535	65535		0	0	0	
+30	3	0Motorway	[highway]=motorway	highway_motorway	65535	80	77	areayes	0	1196435	1	
+670	3	0Motorway Junction	[highway]=motorway_junction	highway_motorway_junction	105	65535	65535		0	0	0	
+40	3	0Motorway Link	[highway]=motorway_link	highway_motorway_link	65535	75	65535		0	840110	0	
+840	3	0Passing Place	[highway]=passing_place	highway_passing_place	192	65535	65535		0	0	0	
+580	3	0Path	[highway]=path	highway_path	65535	47	155	areayes	0	12763362	1382	
+630	3	0Combined Foot- and Cycleway	[highway]=path [bicycle]=designated [foot]=designated [segregated]=no	path_bicycle_combined	65535	132	159	areayes	0	381982	60	
+620	3	0Segregated Foot- and Cycleway	[highway]=path [bicycle]=designated [foot]=designated [segregated]=yes	path_bicycle_segregated	65535	131	158	areayes	0	91413	5	
+170	3	0Pedestrian	[highway]=pedestrian	highway_pedestrian	65535	64	63	areayes	0	493319	223201	
+2310	3	0Bus Platform	[highway]=platform	highway_platform	251	46	62	areayes	0	89278	26715	
+70	3	0Primary	[highway]=primary	highway_primary	65535	78	75	areayes	0	3410240	6	
+80	3	0Primary Link	[highway]=primary_link	highway_primary_link	65535	73	65535		0	427887	0	
+210	3	0Raceway	[highway]=raceway	highway_raceway	65535	62	66	areayes	0	36300	1371	
+140	3	0Residential	[highway]=residential	highway_residential	65535	69	71	areayes	0	64828927	11214	
+690	3	0Rest Area	[highway]=rest_area	highway_rest_area	182	65535	161		0	0	16087	
+220	3	0Road (Unknown Type)	[highway]=road	highway_road	65535	68	70	areayes	0	152680	82	
+90	3	0Secondary	[highway]=secondary	highway_secondary	65535	77	74	areayes	0	4926673	8	
+100	3	0Secondary Link	[highway]=secondary_link	highway_secondary_link	65535	72	65535		0	334430	0	
+180	3	0Service	[highway]=service	highway_service	65535	66	69	areayes	0	52646629	44691	
+680	3	0Services	[highway]=services	highway_services	181	65535	64		0	0	19245	
+890	3	0Speed Camera	[highway]=speed_camera	highway_speed_camera	108	65535	65535		0	0	0	
+650	3	0Steps	[highway]=steps	highway_steps	65535	48	65535		0	1548573	0	
+710	3	0Stop	[highway]=stop	highway_stop	100	65535	65535		0	0	0	
+4960	3	0Street Lamp	[highway]=street_lamp	highway_street_lamp	395	65535	65535		0	0	0	
+110	3	0Tertiary	[highway]=tertiary	highway_tertiary	65535	76	73	areayes	0	7659762	53	
+120	3	0Tertiary Link	[highway]=tertiary_link	highway_tertiary_link	65535	71	65535		0	239921	0	
+570	4	1Track	[highway]=track	highway_track	65535	52	65	areayes	0	25078793	4634	
+900	3	0Traffic Mirror	[highway]=traffic_mirror	highway_traffic_mirror	197	65535	65535		0	0	0	
+700	3	0Traffic Signal	[highway]=traffic_signals	highway_traffic_signals	101	65535	65535		0	0	0	
+50	3	0Trunk	[highway]=trunk	highway_trunk	65535	79	76	areayes	0	1657835	1	
+60	3	0Trunk Link	[highway]=trunk_link	highway_trunk_link	65535	74	65535		0	515105	0	
+850	3	0Turning Circle	[highway]=turning_circle	highway_turning_circle	193	65535	65535		0	0	0	
+860	3	0Turning Loop	[highway]=turning_loop	highway_turning_loop	194	65535	65535		0	0	0	
+130	3	0Unclassified	[highway]=unclassified	highway_unclassified	65535	70	72	areayes	0	16757544	2066	
+5530	3	0Archaeological Site	[historic]=archaeological_site	historic_archaeological_site	68	65535	113		0	0	44665	
+5540	3	0Battlefield	[historic]=battlefield	historic_battlefield	430	65535	395		0	0	319	
+5620	3	0Boundary Stone	[historic]=boundary_stone	historic_boundary_stone	434	65535	403		0	0	89	
+5510	3	0Castle	[historic]=castle	historic_castle	428	65535	394		0	0	31280	
+5500	3	0City walls	[historic]=citywalls	historic_citywalls	65535	16	393		0	14468	1621	
+5590	3	0Memorial	[historic]=memorial	historic_memorial	67	65535	400		0	0	17709	
+5580	3	0Monument	[historic]=monument	historic_monument	154	65535	399		0	0	11877	
+5520	3	0Ruins	[historic]=ruins	historic_ruins	429	65535	112		0	0	92991	
+5570	3	0Tomb	[historic]=tomb	historic_tomb	433	65535	398		0	0	26341	
+5600	3	0Wayside Cross	[historic]=wayside_cross	historic_wayside_cross	141	65535	401		0	0	749	
+5610	3	0Wayside Shrine	[historic]=wayside_shrine	historic_wayside_shrine	151	65535	402		0	0	11943	
+2740	3	0Guidepost	[information]=guidepost [tourism]=information	tourism_information_board	264	65535	65535		0	0	0	
+480	3	0Roundabout	[junction]=roundabout	junction_roundabout	180	129	149	areayes	0	794451	38	
+920	3	0Named Junction	[junction]=yes	junction_yes	199	65535	162		0	0	35048	
+7940	3	0Allotments	[landuse]=allotments	landuse_allotments	65535	65535	41		0	0	299215	
+7930	3	0Aquaculture	[landuse]=aquaculture	landuse_aquaculture	65535	65535	576		0	0	66760	
+1410	3	0Basin	[landuse]=basin	landuse_basin	221	65535	38		0	0	246979	
+8120	3	0Brownfield	[landuse]=brownfield	landuse_brownfield	65535	65535	1		0	0	109760	
+8030	3	0Cemetery	[landuse]=cemetery	landuse_cemetery	65535	65535	579		0	0	467394	
+8060	3	0Commercial	[landuse]=commercial	landuse_commercial	65535	65535	3		0	0	404941	
+8110	3	0Construction Area	[landuse]=construction	landuse_construction	65535	65535	582		0	0	200320	
+7860	3	0Farmland	[landuse]=farmland	landuse_farmland	65535	65535	6		0	0	8353893	
+7850	3	0Farmyard	[landuse]=farmyard	landuse_farmyard	65535	65535	7		0	0	1195290	
+7690	4	0Forest Broadleaved	[landuse]=forest_broadleaved	landuse_forest_broadleaved	65535	65535	116		0	0	379266	
+7680	4	0Forest Mixed	[landuse]=forest_mixed	landuse_forest_mixed	65535	65535	115		0	0	154474	
+7700	4	0Forest Needleleaved	[landuse]=forest_needleleaved	landuse_forest_needleleaved	65535	65535	117		0	0	202602	
+7710	4	0Forest Notype	[landuse]=forest_notype	landuse_forest_notype	65535	65535	118		0	0	4068211	
+8080	3	0Garages	[landuse]=garages	landuse_garages	65535	65535	42		0	0	76141	
+7960	3	0Grass	[landuse]=grass	landuse_grass	65535	65535	39		0	0	5450940	
+8130	3	0Greenfield	[landuse]=greenfield	landuse_greenfield	65535	65535	583		0	0	70058	
+7900	3	0Greenhouse Horticulture	[landuse]=greenhouse_horticulture	landuse_greenhouse_horticulture	65535	65535	111		0	0	94403	
+8070	3	0Industrial	[landuse]=industrial	landuse_industrial	65535	65535	4		0	0	1016296	
+8140	3	0Landfill	[landuse]=landfill	landuse_landfill	65535	65535	584		0	0	45822	
+7870	3	0Meadow	[landuse]=meadow	landuse_meadow	65535	65535	573		0	0	3766672	
+8100	3	1Military	[landuse]=military	landuse_military	65535	65535	102		0	0	66150	
+7880	3	0Orchard	[landuse]=orchard	landuse_orchard	65535	65535	43		0	0	1267220	
+7910	3	0Plant Nursery	[landuse]=plant_nursery	landuse_plant_nursery	65535	65535	574		0	0	48455	
+8150	3	0Quarry	[landuse]=quarry	landuse_quarry	65535	65535	45		0	0	179221	
+8090	3	0Railway Land	[landuse]=railway	landuse_railway	65535	65535	581		0	0	62184	
+8000	3	0Recreation Ground	[landuse]=recreation_ground	landuse_recreation_ground	65535	65535	578		0	0	130947	
+8040	3	0Religious	[landuse]=religious	landuse_religious	65535	65535	580		0	0	86895	
+1420	3	0Reservoir	[landuse]=reservoir	landuse_reservoir	222	65535	37		0	0	218434	
+8010	3	0Residential Area	[landuse]=residential	landuse_residential	65535	65535	2		0	0	8226681	
+8050	3	0Retail	[landuse]=retail	landuse_retail	65535	65535	5		0	0	298869	
+7920	3	0Salt Pond	[landuse]=salt_pond	landuse_salt_pond	65535	65535	575		0	0	15345	
+7970	3	0Village Green	[landuse]=village_green	landuse_village_green	65535	65535	577		0	0	100434	
+7890	3	0Vineyard	[landuse]=vineyard	landuse_vineyard	65535	65535	44		0	0	634240	
+2800	3	0Bandstand	[leisure]=bandstand	leisure_bandstand	269	65535	224		0	0	4247	
+2860	3	0Beach Resort	[leisure]=beach_resort	leisure_beach_resort	273	65535	228		0	0	6206	
+2970	3	0Bird Hide	[leisure]=bird_hide	leisure_bird_hide	281	65535	235		0	0	2592	
+7980	3	0Common	[leisure]=common	leisure_common	65535	65535	8		0	0	30877	
+2820	3	0Dog Park	[leisure]=dog_park	leisure_dog_park	270	65535	225		0	0	17913	
+2950	3	0Firepit	[leisure]=firepit	leisure_firepit	279	65535	233		0	0	2032	
+2960	3	0Fishing	[leisure]=fishing	leisure_fishing	280	65535	234		0	0	4193	
+3870	3	0Fitness Centre	[leisure]=fitness_centre	leisure_fitness_centre	322	65535	291		0	0	18818	
+2880	3	0Fitness Station	[leisure]=fitness_station	leisure_fitness_station	275	65535	229		0	0	21392	
+7950	3	0Garden	[leisure]=garden	leisure_garden	556	65535	14		0	0	1000251	
+3910	4	0Golf Course	[leisure]=golf_course	leisure_golf_course	325	65535	10		0	0	30921	
+4010	4	0Driving range	[leisure]=golf_course [golf]=driving_range	leisure_golf_course_driving_range	328	65535	299		0	0	307	
+3980	4	0Green	[leisure]=golf_course [golf]=green	leisure_golf_course_green	65535	65535	296		0	0	287	
+3930	4	0Hole	[leisure]=golf_course [golf]=hole	leisure_golf_course_hole	65535	172	65535		0	0	31	
+3970	4	0Lateral water hazard	[leisure]=golf_course [golf]=lateral_water_hazard [natural]=water	leisure_golf_lateral water hazard 	65535	65535	295		0	0	0	
+3940	4	0Pin	[leisure]=golf_course [golf]=pin	leisure_golf_course_pin	327	65535	65535		0	0	0	
+4000	4	0Rough	[leisure]=golf_course [golf]=rough	leisure_golf_course_rough	65535	65535	298		0	0	50	
+3920	4	0Tee	[leisure]=golf_course [golf]=tee	leisure_golf_course_tee	326	65535	292		0	0	218	
+3960	4	0Frontal Water hazard	[leisure]=golf_course [golf]=water_hazard [natural]=water	leisure_golf_frontal water hazard 	65535	65535	294		0	0	17	
+2900	3	0Horse Riding	[leisure]=horse_riding	leisure_horse_riding	277	65535	231		0	0	12897	
+1540	3	0Marina	[leisure]=marina	leisure_marina	72	65535	52		0	0	13322	
+4020	3	0Miniature Golf	[leisure]=miniature_golf	leisure_miniature_golf	329	65535	300		0	0	7472	
+7740	3	0Nature Reserve	[leisure]=nature_reserve	leisure_nature_reserve	553	65535	101		0	0	84832	
+7990	3	0Park	[leisure]=park	leisure_park	65535	65535	9		0	0	1068996	
+2930	3	0Picnic Table	[leisure]=picnic_table	leisure_picnic_table	47	65535	65535		0	0	0	
+3880	3	0Pitch	[leisure]=pitch	leisure_pitch	323	65535	53		0	0	2159020	
+2910	3	0Playground	[leisure]=playground	leisure_playground	70	65535	56		0	0	597940	
+2850	3	0Resort	[leisure]=resort	leisure_resort	272	65535	227		0	0	11786	
+1590	3	0Slipway	[leisure]=slipway	leisure_slipway	71	156	65535		0	14119	0	
+3860	3	0Sports Centre	[leisure]=sports_centre	leisure_sports_centre	321	65535	290		0	0	176248	
+3850	3	0Stadium	[leisure]=stadium	leisure_stadium	320	65535	55		0	0	43816	
+2870	3	0Swimming Pool	[leisure]=swimming_pool	leisure_swimming_pool	274	65535	57		0	0	1823807	
+3890	3	0Racetrack	[leisure]=track	leisure_track	324	171	54	areayes	0	69239	15832	
+2840	3	0Water Park	[leisure]=water_park	leisure_water_park	271	65535	226		0	0	9363	
+5340	3	0Power Bay	[line]=bay [power]=line	line_bay power_line	65535	180	65535		0	72080	0	
+5330	3	0Power Busbar	[line]=busbar [power]=line	line_busbar power_line	65535	179	65535		0	67837	0	
+4820	3	0Adit	[man_made]=adit	man made_adit	133	65535	65535		0	0	0	
+4950	3	0Beacon	[man_made]=beacon	man made_beacon	394	65535	364		0	0	214	
+1380	3	0Breakwater	[man_made]=breakwater	man made_breakwater	65535	12	179	areayes	0	25215	24578	
+5040	3	0Bridge outline	[man_made]=bridge	man made_bridge	65535	65535	367		0	0	196832	
+4790	3	0Bunker Silo	[man_made]=bunker_silo	man made_bunker_silo	386	65535	355		0	0	49967	
+4730	3	0Chimney	[man_made]=chimney	man made_chimney	123	65535	351		0	0	13293	
+4800	3	0Crane	[man_made]=crane	man made_crane	387	176	356	areayes	0	4236	1061	
+4710	3	0Cross	[man_made]=cross	man made_cross	380	65535	65535		0	0	0	
+7720	3	0Cutline	[man_made]=cutline	man made_cutline	65535	10	65535		0	354215	0	
+4830	3	1Embankment	[man_made]=embankment	man made_embankment	65535	11	65535		0	214615	0	
+4700	3	0Flagpole	[man_made]=flagpole	man made_flagpole	379	65535	65535		0	0	0	
+4760	3	0Gasometer	[man_made]=gasometer	man made_gasometer	383	65535	354		0	0	17266	
+1370	3	0Groyne	[man_made]=groyne	man made_groyne	65535	152	178		0	32400	8546	
+4740	3	0Kiln	[man_made]=kiln	man made_kiln	382	65535	352		0	0	4583	
+4940	3	0Lighthouse	[man_made]=lighthouse	man made_lighthouse	75	65535	363		0	0	2589	
+4810	3	0Mineshaft	[man_made]=mineshaft	man made_mineshaft	388	65535	357		0	0	2277	
+4970	3	0Monitoring Station	[man_made]=monitoring_station	man made_monitoring_station	124	65535	365		0	0	3504	
+4850	3	0Petroleum_well	[man_made]=petroleum_well	man made_petroleum_well	117	65535	65535		0	0	0	
+1560	3	0Pier	[man_made]=pier	man made_pier	226	13	90		0	444506	150204	
+4840	3	0Pipeline	[man_made]=pipeline	man made_pipeline	65535	109	65535		0	271155	0	
+1430	3	0Covered Reservoir	[man_made]=reservoir_covered	man made_reservoir_covered	223	65535	180		0	0	37691	
+4770	3	0Silo	[man_made]=silo	man made_silo	384	65535	105		0	0	216792	
+4780	3	0Storage Tank	[man_made]=storage_tank	man made_storage_tank	385	65535	47		0	0	483683	
+5380	3	0Power Street Cabinet	[man_made]=street_cabinet [street_cabinet]=power	man made_street_cabinet_power	422	65535	65535		0	0	0	
+4990	3	0Surveillance Camera	[man_made]=surveillance [surveillance:type]=camera	man made_surveillance_camera	115	65535	65535		0	0	0	
+4980	3	0Survey Point	[man_made]=survey_point	man made_survey_point	396	65535	65535		0	0	0	
+4690	3	0Tower	[man_made]=tower	man made_tower	112	65535	349		0	0	76773	
+4900	3	0Wastewater Treatment Plant	[man_made]=wastewater_plant	man made_wastewater_plant	392	65535	68		0	0	72329	
+4880	3	0Water Tower	[man_made]=water_tower	man made_water_tower	74	65535	358		0	0	41770	
+4930	3	0Water Well	[man_made]=water_well	man made_water_well	113	65535	362		0	0	22186	
+4890	3	0Water Works	[man_made]=water_works	man made_water_works	391	65535	359		0	0	26935	
+4910	3	0Watermill	[man_made]=watermill	man made_watermill	393	65535	360		0	0	6401	
+4750	3	0Windmill	[man_made]=windmill	man made_windmill	76	65535	353		0	0	5297	
+4720	3	0Works	[man_made]=works	man made_works	381	65535	350		0	0	140535	
+5060	3	0Airfield	[military]=airfield	military_airfield	398	65535	368		0	0	1597	
+5070	3	0Barracks	[military]=barracks	military_barracks	399	65535	89		0	0	12194	
+5080	3	0Military Bunker	[military]=bunker	military_bunker	400	65535	369		0	0	35276	
+5090	3	0Range	[military]=range	military_range	401	65535	370		0	0	3611	
+950	3	0Mountain Pass	[mountain_pass]=yes	mountain_pass_yes	202	65535	65535		0	0	0	
+7590	3	0Global Forest	[natural]=Global_Forest	natural_global_forest	65535	65535	23		0	0	0	
+7810	3	0Bare Rock	[natural]=bare_rock	natural_bare_rock	65535	65535	34		0	0	786851	
+1500	3	0Bay	[natural]=bay	natural_bay	95	65535	24		0	0	2735	
+1490	3	0Beach	[natural]=beach	natural_beach	65535	65535	27		0	0	134189	
+7530	3	0Cave Entrance	[natural]=cave_entrance	natural_cave_entrance	94	65535	566		0	0	499	
+7520	3	0Cliff	[natural]=cliff	natural_cliff	550	14	565	areayes	0	709632	3534	
+1450	3	0Coastline	[natural]=coastline	natural_coastline	65535	106	65535		0	1157991	0	
+7580	3	0Desert	[natural]=desert	natural_desert	65535	65535	32		0	0	626	
+7770	3	0Fell	[natural]=fell	natural_fell	65535	65535	35		0	0	24461	
+7480	3	0Glacier	[natural]=glacier	natural_glacier	65535	65535	22		0	0	79858	
+7730	3	0Grassland	[natural]=grassland	natural_grassland	65535	65535	29		0	0	1356688	
+7790	3	0Heath	[natural]=heath	natural_heath	65535	65535	30		0	0	437291	
+1480	3	0Mud	[natural]=mud	natural_mud	65535	65535	21		0	0	22938	
+7460	3	0Peak	[natural]=peak	natural_peak	92	65535	65535		0	0	0	
+7560	3	0Reef	[natural]=reef	natural_reef	552	65535	569		0	0	35639	
+7500	3	0Ridge	[natural]=ridge	natural_ridge	65535	15	65535		0	164816	0	
+7820	3	0Rock	[natural]=rock	natural_rock	554	65535	571		0	0	24408	
+7470	3	0Saddle	[natural]=saddle	natural_saddle	549	65535	65535		0	0	0	
+7800	3	0Sand	[natural]=sand	natural_sand	65535	65535	31		0	0	587406	
+7750	3	0Scree	[natural]=scree	natural_scree	65535	65535	36		0	0	262825	
+7780	3	0Scrub	[natural]=scrub	natural_scrub	65535	65535	28		0	0	3804834	
+7760	3	0Shingle	[natural]=shingle	natural_shingle	65535	65535	570		0	0	51957	
+1330	3	0Spring	[natural]=spring	natural_spring	96	65535	176		0	0	1716	
+7830	3	0Stone	[natural]=stone	natural_stone	555	65535	572		0	0	7659	
+7600	3	0Tree	[natural]=tree	natural_tree	97	65535	65535		0	0	0	
+7610	3	0Tree Row	[natural]=tree_row	natural_tree_row	65535	94	65535		0	1351414	0	
+7510	3	0Valley	[natural]=valley	natural_valley	65535	187	65535		0	28670	0	
+7490	3	0Volcano	[natural]=volcano	natural_volcano	93	65535	65535		0	0	0	
+1440	3	2Water	[natural]=water	natural_water	65535	65535	25		0	0	12392613	
+1470	3	0Wetland	[natural]=wetland	natural_wetland	65535	65535	100		0	0	2631962	
+7640	4	0Wood Broadleaved	[natural]=wood_broadleaved	natural_wood_broadleaved	65535	65535	120		0	0	514274	
+7630	4	0Wood Mixed	[natural]=wood_mixed	natural_wood_mixed	65535	65535	119		0	0	267436	
+7650	4	0Wood Needleleaved	[natural]=wood_needleleaved	natural_wood_needleleaved	65535	65535	121		0	0	219050	
+7660	4	0Wood Notype	[natural]=wood_notype	natural_wood_notype	65535	65535	122		0	0	7534455	
+6620	2	0Accountant	[office]=accountant	office_accountant	498	65535	489		0	0	2541	
+6630	2	0Administrative	[office]=administrative	office_administrative	499	65535	490		0	0	2633	
+6640	2	0Advertising agency	[office]=advertising_agency	office_advertising_agency	500	65535	491		0	0	870	
+6650	2	0Architect	[office]=architect	office_architect	501	65535	492		0	0	1624	
+6660	2	0Association	[office]=association	office_association	502	65535	493		0	0	4812	
+6670	2	0Private company	[office]=company	office_company	503	65535	494		0	0	45938	
+6680	2	0Educational institution	[office]=educational_institution	office_educational_institution	504	65535	495		0	0	11145	
+6690	2	0Employment agency	[office]=employment_agency	office_employment_agency	505	65535	496		0	0	2240	
+6700	2	0Estate agent	[office]=estate_agent	office_estate_agent	506	65535	497		0	0	10428	
+6710	2	0Foundation	[office]=foundation	office_foundation	507	65535	498		0	0	760	
+6720	2	0Government	[office]=government	office_government	508	65535	499		0	0	97553	
+6730	2	0Insurance	[office]=insurance	office_insurance	509	65535	500		0	0	8516	
+6740	2	0It specialist	[office]=it	office_it specialist	510	65535	501		0	0	2543	
+6750	2	0Lawyer	[office]=lawyer	office_lawyer	511	65535	502		0	0	6204	
+6760	2	0Newspaper	[office]=newspaper	office_newspaper	512	65535	503		0	0	1742	
+6770	2	0Non-governmental organisation (NGO)	[office]=ngo	office_ngo organisation	513	65535	504		0	0	4257	
+6780	2	0Notary	[office]=notary	office_notary	514	65535	505		0	0	780	
+6790	2	0Political party	[office]=political_party	office_political_party	515	65535	506		0	0	1340	
+6800	2	0Religion	[office]=religion	office_religion	516	65535	507		0	0	3609	
+6810	2	0Research	[office]=research	office_research	517	65535	508		0	0	6092	
+6820	2	0Tax advisor	[office]=tax_advisor	office_tax_advisor	518	65535	509		0	0	1191	
+6830	2	0Telecommunication	[office]=telecommunication	office_telecommunication	519	65535	510		0	0	5432	
+4860	3	0Pipeline Marker	[pipeline]=marker	pipeline_marker	389	65535	65535		0	0	0	
+4870	3	0Pipeline Valve	[pipeline]=valve	pipeline_valve	390	65535	65535		0	0	0	
+4270	5	0Advanced Piste	[piste:difficulty]=advanced	piste_difficulty_advanced	65535	116	65535		0	19892	0	
+4250	5	0Easy Piste	[piste:difficulty]=easy	piste_difficulty_easy	65535	114	65535		0	77692	0	
+4280	5	0Expert Piste	[piste:difficulty]=expert	piste_difficulty_expert	65535	175	65535		0	3331	0	
+4290	5	0Freeride Piste	[piste:difficulty]=freeride	piste_difficulty_freeride	65535	117	65535		0	1706	0	
+4260	5	0Intermediate Piste	[piste:difficulty]=intermediate	piste_difficulty_intermediate	65535	115	65535		0	53373	0	
+4240	5	0Novice Piste	[piste:difficulty]=novice	piste_difficulty_novice	65535	113	65535		0	13579	0	
+4300	5	0Downhill	[piste:type]=downhill	piste_type_downhill	65535	86	65535		0	93208	0	
+4310	4	0Nordic Piste	[piste:type]=nordic	piste_type_nordic	65535	112	65535		0	143112	0	
+7340	3	0City	[place]=city	place_city	149	65535	554		0	0	912	
+7290	3	0Country	[place]=country	place_country	158	65535	550		0	0	0	
+7320	3	0County	[place]=county	place_county	546	65535	553		0	0	14	
+7420	3	0Farm	[place]=farm	place_farm	132	65535	562		0	0	9867	
+7370	3	0Hamlet	[place]=hamlet	place_hamlet	138	65535	557		0	0	96277	
+7540	3	0Place Island	[place]=island	place_island	160	65535	567		0	0	65223	
+7550	3	0Islet	[place]=islet	place_islet	551	65535	568		0	0	413812	
+7380	3	0Isolated Dwelling	[place]=isolated_dwelling	place_isolated_dwelling	134	65535	558		0	0	18419	
+7430	3	0Locality	[place]=locality	place_locality	136	65535	563		0	0	14547	
+7410	3	0Neighbourhood	[place]=neighbourhood	place_neighbourhood	142	65535	561		0	0	54088	
+7400	3	0Quarter	[place]=quarter	place_quarter	547	65535	560		0	0	3605	
+7310	3	0Region	[place]=region	place_region	545	65535	552		0	0	159	
+7280	3	0Sea	[place]=sea	place_sea	544	65535	549		0	0	2	
+7440	3	0Square	[place]=square	place_square	548	65535	564		0	0	67459	
+7300	3	0State	[place]=state	place_state	155	65535	551		0	0	2	
+7390	3	0Suburb	[place]=suburb	place_suburb	144	65535	559		0	0	8056	
+7350	3	0Town	[place]=town	place_town	146	65535	555		0	0	5384	
+7360	3	0Village	[place]=village	place_village	140	65535	556		0	0	84982	
+5480	3	0Power Cable	[power]=cable	power_cable	65535	110	65535		0	60135	0	
+5370	3	0Power Compensator	[power]=compensator	power_compensator	421	65535	391		0	0	372	
+5360	3	0Power Converter	[power]=converter	power_converter	420	65535	390		0	0	491	
+5450	3	0Insulator	[power]=insulator	power_insulator	427	182	65535		0	128	0	
+5460	3	0Power Line	[power]=line	power_line	65535	85	65535		0	848615	0	
+5470	3	0Power Minor Line	[power]=minor_line	power_minor_line	65535	84	65535		0	800385	0	
+5110	3	0Power Plant	[power]=plant	power_plant	65535	65535	371		0	0	67134	
+5420	3	0Pole	[power]=pole	power_pole	125	65535	65535		0	0	0	
+5440	3	0Pole with Transformer	[power]=pole [transformer]=distribution	power_pole_distribution	426	65535	65535		0	0	0	
+5400	3	0Power Portal	[power]=portal	power_portal	424	181	65535		0	23054	0	
+5300	3	0Power Substation	[power]=substation	power_substation	121	65535	87		0	0	506863	
+5350	3	0Power Switch	[power]=switch	power_switch	419	65535	65535		0	0	0	
+5320	3	0Power Switchgear	[power]=switchgear	power_switchgear	65535	65535	389		0	0	3865	
+5410	3	0Power Tower	[power]=tower	power_tower	122	65535	65535		0	0	0	
+5310	3	0Power Transformer	[power]=transformer	power_transformer	418	65535	65535		0	0	0	
+2200	3	0Platform	[public_transport]=platform	public_transport_platform	247	167	200		0	196089	151658	
+2210	3	0Station	[public_transport]=station	public_transport_station	248	65535	201		0	0	34153	
+2190	3	0Stop Position	[public_transport]=stop_position	public_transport_stop_position	246	65535	65535		0	0	0	
+1740	3	0Abandoned Rail	[railway]=abandoned	railway_abandoned	65535	158	65535		0	366299	0	
+1780	3	0Buffer Stop	[railway]=buffer_stop	railway_buffer_stop	232	65535	65535		0	0	0	
+1760	3	0Crossing	[railway]=crossing	railway_crossing	230	65535	65535		0	0	0	
+1730	3	0Disused Rail	[railway]=disused	railway_disused	65535	18	65535		0	154141	0	
+1710	3	0Funicular	[railway]=funicular	railway_funicular	65535	157	65535		0	2204	0	
+2260	3	0Railway Halt	[railway]=halt	railway_halt	114	65535	65535		0	0	0	
+1750	3	0Level Crossing	[railway]=level_crossing	railway_level_crossing	107	65535	65535		0	0	0	
+1680	3	0Light Rail	[railway]=light_rail	railway_light_rail	65535	23	65535		0	35042	0	
+1810	3	0Railway milestone	[railway]=milestone	railway_milestone	235	65535	65535		0	0	0	
+1820	3	0Railway Miniature	[railway]=miniature	railway_miniature	65535	25	65535		0	10205	0	
+1660	3	0Monorail	[railway]=monorail	railway_monorail	65535	19	65535		0	4270	0	
+1650	3	0Narrow Gauge Rail	[railway]=narrow_gauge	railway_narrow_gauge	65535	26	65535		0	53161	0	
+2280	3	0Railway Platform	[railway]=platform	railway_platform	65535	17	79	areayes	0	72964	82760	
+1670	3	0Preserved	[railway]=preserved	railway_preserved	65535	21	65535		0	4837	0	
+1640	3	0Rail	[railway]=rail	railway_rail	65535	30	65535		0	2484680	0	
+1800	3	0Railway Signal	[railway]=signal	railway_signal	234	65535	65535		0	0	0	
+2250	3	0Railway Station	[railway]=station	railway_station	111	65535	78		0	0	6857	
+1690	3	0Subway	[railway]=subway	railway_subway	65535	22	65535		0	80195	0	
+2220	3	0Subway Entrance	[railway]=subway_entrance	railway_subway_entrance	109	65535	65535		0	0	0	
+1790	3	0Railway Switch	[railway]=switch	railway_switch	233	65535	65535		0	0	0	
+1700	3	0Tram	[railway]=tram	railway_tram	65535	24	65535		0	103579	0	
+2270	3	0Tram Stop	[railway]=tram_stop	railway_tram_stop	250	65535	65535		0	0	0	
+1770	3	0Turntable	[railway]=turntable	railway_turntable	231	65535	186		0	0	2875	
+1530	3	0Ferry Route	[route]=ferry	route_ferry	65535	83	65535		0	27876	0	
+190	3	0Parking Aisle	[service]=parking_aisle [highway]=service	parking_aisle	65535	67	124		0	5832727	121183	
+1850	4	0Service siding	[service]=siding	service_siding	65535	159	65535		0	335312	0	
+1860	4	0Service spur	[service]=spur	service_spur	65535	160	65535		0	510263	0	
+1840	4	0Service yard	[service]=yard	service_yard	65535	29	65535		0	573942	0	
+5830	3	0Alcohol	[shop]=alcohol	shop_alcohol	164	65535	420		0	0	11972	
+6190	3	0Antiques	[shop]=antiques	shop_antiques	471	65535	451		0	0	2577	
+6150	3	0Art	[shop]=art	shop_art	467	65535	447		0	0	2288	
+6550	3	0Bag	[shop]=bag	shop_bag	493	65535	484		0	0	594	
+5680	3	0Bakery	[shop]=bakery	shop_bakery	80	65535	406		0	0	28052	
+6300	3	0Beauty	[shop]=beauty	shop_beauty	163	65535	460		0	0	12289	
+6170	3	0Bed	[shop]=bed	shop_bed	469	65535	449		0	0	2532	
+5840	3	0Beverages	[shop]=beverages	shop_beverages	447	65535	421		0	0	5138	
+2150	3	0Bike Dealer	[shop]=bicycle	shop_bicycle	89	65535	197		0	0	6671	
+6530	3	0Bookmaker	[shop]=bookmaker	shop_bookmaker	491	65535	482		0	0	1951	
+6230	3	0Book Store	[shop]=books	shop_books	166	65535	454		0	0	6071	
+5880	3	0Boutique	[shop]=boutique	shop_boutique	449	65535	424		0	0	1016	
+5690	3	0Butcher	[shop]=butcher	shop_butcher	81	65535	407		0	0	11814	
+2040	3	0Car Dealer	[shop]=car	shop_car	87	65535	189		0	0	65677	
+2060	3	0Parts	[shop]=car_parts	shop_car_parts	240	65535	191		0	0	21454	
+2050	3	0Repair	[shop]=car_repair	shop_car_repair	88	65535	190		0	0	83676	
+6520	3	0Charity	[shop]=charity	shop_charity	490	65535	481		0	0	5053	
+5720	3	0Cheese	[shop]=cheese	shop_cheese	437	65535	410		0	0	951	
+6270	3	0Chemist	[shop]=chemist	shop_chemist	178	65535	457		0	0	11449	
+5870	3	1Clothes	[shop]=clothes	shop_clothes	82	65535	423		0	0	43389	
+5770	3	0Coffee	[shop]=coffee	shop_coffee	442	65535	415		0	0	1342	
+5970	3	0Computer	[shop]=computer	shop_computer	456	65535	432		0	0	3268	
+5750	3	0Confectionery	[shop]=confectionery	shop_confectionery	440	65535	413		0	0	3793	
+5660	3	0Convenience Store	[shop]=convenience	shop_convenience	83	65535	404		0	0	164159	
+6220	3	0Copy Shop	[shop]=copyshop	shop_copyshop	473	65535	453		0	0	3064	
+6280	3	0Cosmetics	[shop]=cosmetics	shop_cosmetics	476	65535	458		0	0	2314	
+6140	3	0Curtain	[shop]=curtain	shop_curtain	466	65535	446		0	0	540	
+5710	3	0Dairy	[shop]=dairy	shop_dairy	436	65535	409		0	0	1340	
+5730	3	0Deli (Fine Food)	[shop]=deli	shop_deli	438	65535	411		0	0	2743	
+6400	3	0Department Store	[shop]=department_store	shop_department_store	79	65535	469		0	0	15794	
+6440	3	0Do-It-Yourself Store	[shop]=doityourself	shop_doityourself	84	65535	473		0	0	24476	
+5920	3	0Dry Cleaning	[shop]=dry_cleaning	shop_dry_cleaning	452	65535	428		0	0	3667	
+5980	3	0Electronics	[shop]=electronics	shop_electronics	165	65535	433		0	0	10970	
+6380	3	0Erotic	[shop]=erotic	shop_erotic	482	65535	468		0	0	552	
+5950	3	0Fabric	[shop]=fabric	shop_fabric	455	65535	431		0	0	1766	
+5800	3	0Farm Stand	[shop]=farm	shop_farm	444	65535	417		0	0	6763	
+6420	3	0Florist	[shop]=florist	shop_florist	85	65535	471		0	0	11310	
+6160	3	0Frame	[shop]=frame	shop_frame	468	65535	448		0	0	646	
+6580	3	0Funeral Directors	[shop]=funeral_directors	shop_funeral_directors	496	65535	487		0	0	10603	
+6110	3	0Furniture	[shop]=furniture	shop_furniture	168	65535	443		0	0	20794	
+6430	3	0Garden Centre	[shop]=garden_centre	shop_garden_centre	484	65535	472		0	0	10991	
+6500	3	0Gift Souvenir	[shop]=gift	shop_gift	173	65535	479		0	0	8469	
+5790	3	0Greengrocer	[shop]=greengrocer	shop_greengrocer	175	65535	416		0	0	7919	
+6320	3	0Hairdresser Barber	[shop]=hairdresser	shop_hairdresser	86	65535	462		0	0	30348	
+6450	3	0Hardware	[shop]=hardware	shop_hardware	170	65535	474		0	0	19693	
+6350	3	0Hearing Aids	[shop]=hearing_aids	shop_hearing_aids	480	65535	465		0	0	480	
+6010	3	0Hifi	[shop]=hifi	shop_hifi	458	65535	436		0	0	566	
+6130	3	0Houseware	[shop]=houseware	shop_houseware	465	65535	445		0	0	3141	
+6180	3	0Interior Decoration	[shop]=interior_decoration	shop_interior_decoration	470	65535	450		0	0	3278	
+6370	3	0Jewellery	[shop]=jewelry	shop_jewelry	171	65535	467		0	0	6485	
+5670	3	0Kiosk	[shop]=kiosk	shop_kiosk	148	65535	405		0	0	25395	
+6120	3	0Kitchen	[shop]=kitchen	shop_kitchen	464	65535	444		0	0	2420	
+5930	3	0Laundry	[shop]=laundry	shop_laundry	453	65535	429		0	0	6032	
+6540	3	0Lottery	[shop]=lottery	shop_lottery	492	65535	483		0	0	1868	
+6410	3	0Mall	[shop]=mall	shop_mall	483	65535	470		0	0	53412	
+6360	3	0Medical Supply	[shop]=medical_supply	shop_medical_supply	481	65535	466		0	0	1829	
+5990	3	0Mobile Phone	[shop]=mobile_phone	shop_mobile_phone	169	65535	434		0	0	9131	
+2120	3	0Motorcycle Dealer	[shop]=motorcycle	shop_motorcycle	244	65535	196		0	0	5882	
+6040	3	0Music	[shop]=music	shop_music	461	65535	439		0	0	1061	
+6480	3	0Musical Instrument	[shop]=musical_instrument	shop_musical_instrument	487	65535	477		0	0	1216	
+6240	3	0Newspaper Stand	[shop]=newsagent	shop_newsagent	474	65535	455		0	0	5443	
+6340	3	0Optician	[shop]=optician	shop_optician	172	65535	464		0	0	6469	
+5900	3	0Outdoor	[shop]=outdoor	shop_outdoor	450	65535	426		0	0	2225	
+6460	3	0Paint	[shop]=paint	shop_paint	485	65535	475		0	0	4036	
+5740	3	0Pastry	[shop]=pastry	shop_pastry	439	65535	412		0	0	2197	
+6090	3	0Pawnbroker	[shop]=pawnbroker	shop_pawnbroker	463	65535	442		0	0	2048	
+6290	3	0Perfumery	[shop]=perfumery	shop_perfumery	477	65535	459		0	0	673	
+6560	3	0Pet	[shop]=pet	shop_pet	494	65535	485		0	0	6462	
+6570	3	0Photo	[shop]=photo	shop_photo	495	65535	486		0	0	1281	
+5700	3	0Seafood	[shop]=seafood	shop_seafood	435	65535	408		0	0	3091	
+5890	3	0Shoes	[shop]=shoes	shop_shoes	159	65535	425		0	0	8246	
+5910	3	1Sports	[shop]=sports	shop_sports	451	65535	427		0	0	6317	
+6210	3	0Stationery	[shop]=stationery	shop_stationery	472	65535	452		0	0	5603	
+5650	3	0Supermarket	[shop]=supermarket	shop_supermarket	78	65535	94		0	0	143137	
+5940	3	0Tailor	[shop]=tailor	shop_tailor	454	65535	430		0	0	1732	
+6330	3	0Tattoo	[shop]=tattoo	shop_tattoo	479	65535	463		0	0	1657	
+5760	3	0Tea	[shop]=tea	shop_tea	441	65535	414		0	0	1051	
+6250	3	0Ticket	[shop]=ticket	shop_ticket	475	65535	456		0	0	4551	
+6310	3	0Tobacco	[shop]=tobacco	shop_tobacco	478	65535	461		0	0	2404	
+6490	3	0Toys	[shop]=toys	shop_toys	488	65535	478		0	0	2516	
+6470	3	0Travel Agency	[shop]=travel_agency	shop_travel_agency	486	65535	476		0	0	2816	
+2070	3	0Tires	[shop]=tyres	shop_tyres	241	65535	192		0	0	10886	
+6000	3	0Vacuum Cleaner	[shop]=vacuum_cleaner	shop_vacuum_cleaner	457	65535	435		0	0	189	
+6510	3	0Variety Store	[shop]=variety_store	shop_variety_store	489	65535	480		0	0	16894	
+6020	3	0Video	[shop]=video	shop_video	459	65535	437		0	0	718	
+6030	3	0Video Games	[shop]=video_games	shop_video_games	460	65535	438		0	0	754	
+5850	3	0Wine	[shop]=wine	shop_wine	448	65535	422		0	0	2168	
+4060	3	0Ten-pin Bowling	[sport]=10pin	sport_10pin	332	65535	303		0	0	1091	
+4050	3	0Nine-pin Bowling	[sport]=9pin	sport_9pin	331	65535	302		0	0	546	
+4360	3	0American Football	[sport]=american_football	sport_american_football	351	65535	322		0	0	20147	
+4070	3	0Archery	[sport]=archery	sport_archery	333	65535	304		0	0	2885	
+4350	3	0Australian Football	[sport]=australian_football	sport_australian_football	350	65535	321		0	0	2019	
+4410	3	0Baseball	[sport]=baseball	sport_baseball	356	65535	327		0	0	154197	
+4420	3	0Basketball	[sport]=basketball	sport_basketball	357	65535	328		0	0	236922	
+4450	3	0Beach Volleyball	[sport]=beachvolleyball	sport_beachvolleyball	360	65535	331		0	0	28474	
+4460	3	0Billiards	[sport]=billiards	sport_billiards	361	65535	332		0	0	353	
+4480	3	0Boule	[sport]=boules	sport_boules	363	65535	334		0	0	23076	
+4490	3	0Lawn Bowling	[sport]=bowls	sport_bowls	364	65535	335		0	0	15656	
+4370	3	0Canadian Football	[sport]=canadian_football	sport_canadian_football	352	65535	323		0	0	299	
+4110	3	0Canoeing Kayaking	[sport]=canoe	sport_canoe	337	174	308		0	1226	898	
+4100	3	0Climbing	[sport]=climbing	sport_climbing	336	173	307		0	5682	4345	
+4500	3	0Cricket	[sport]=cricket	sport_cricket	365	65535	336		0	0	14633	
+4510	3	0Croquet	[sport]=croquet	sport_croquet	366	65535	337		0	0	538	
+4120	3	0Cycling	[sport]=cycling	sport_cycling	338	65535	309		0	0	3345	
+4130	3	0Dog Racing	[sport]=dog_racing	sport_dog_racing	339	65535	310		0	0	334	
+4140	3	0Equestrian	[sport]=equestrian	sport_equestrian	340	65535	311		0	0	72913	
+4520	3	0Field Hockey	[sport]=field_hockey	sport_field_hockey	367	65535	338		0	0	4750	
+4380	3	0Gaelic Games	[sport]=gaelic_games	sport_gaelic_games	353	65535	324		0	0	2866	
+4470	3	1Golf	[sport]=golf	sport_golf	362	65535	333		0	0	64334	
+4160	3	0Gymnastics	[sport]=gymnastics	sport_gymnastics	342	65535	313		0	0	2702	
+4430	3	0Handball	[sport]=handball	sport_handball	358	65535	329		0	0	5625	
+4150	3	0Horse Racing	[sport]=horse_racing	sport_horse_racing	341	65535	312		0	0	4128	
+4530	3	0Ice Hockey	[sport]=ice_hockey	sport_ice_hockey	368	65535	339		0	0	4235	
+4170	3	0Ice Skating	[sport]=ice_skating	sport_ice_skating	343	65535	314		0	0	1624	
+4600	3	0Kart Racing	[sport]=karting	sport_karting	374	65535	345		0	0	3606	
+4620	3	0Model Aerodrome	[sport]=model_aerodrome	sport_model_aerodrome	376	65535	347		0	0	2105	
+4610	3	0Motocross	[sport]=motocross	sport_motocross	375	65535	346		0	0	4683	
+4590	3	1Motorsport	[sport]=motor	sport_motor	373	65535	344		0	0	7074	
+4040	3	0Multi	[sport]=multi	sport_multi	330	65535	301		0	0	130182	
+4540	3	0Pelota	[sport]=pelota	sport_pelota	369	65535	340		0	0	3165	
+4550	3	0Racquetball	[sport]=racquet	sport_racquet	370	65535	341		0	0	873	
+4630	3	0RC Car	[sport]=rc_car	sport_rc_car	377	65535	348		0	0	664	
+4180	3	0Roller Skating	[sport]=roller_skating	sport_roller_skating	344	65535	315		0	0	1078	
+4390	3	0Rugby League	[sport]=rugby_league	sport_rugby_league	354	65535	325		0	0	1827	
+4400	3	0Rugby Union	[sport]=rugby_union	sport_rugby_union	355	65535	326		0	0	6368	
+4090	3	0Running	[sport]=running	sport_running	335	65535	306		0	0	21503	
+4210	3	0Scuba Diving	[sport]=scuba_diving	sport_scuba_diving	347	65535	318		0	0	428	
+4320	3	0Shooting	[sport]=shooting	sport_shooting	348	65535	319		0	0	12492	
+4190	3	0Skateboard	[sport]=skateboard	sport_skateboard	345	65535	316		0	0	20704	
+4340	3	0Soccer	[sport]=soccer	sport_soccer	349	65535	320		0	0	537628	
+4200	3	0Swimming	[sport]=swimming	sport_swimming	346	65535	317		0	0	85244	
+4560	3	0Table Tennis Ping-Pong	[sport]=table_tennis	sport_table_tennis	371	65535	342		0	0	8454	
+4570	3	0Tennis	[sport]=tennis	sport_tennis	372	65535	343		0	0	461355	
+4440	3	0Volleyball	[sport]=volleyball	sport_volleyball	359	65535	330		0	0	25478	
+4080	3	0Track and Field Athletics	[sports]=athletics [sport]=athletics	sports_athletics sport_athletics	334	65535	305		0	0	2	
+2550	3	0Alpine Hut	[tourism]=alpine_hut	tourism_alpine_hut	50	65535	210		0	0	6352	
+2520	3	0Apartment	[tourism]=apartment	tourism_apartment	259	65535	207		0	0	19310	
+3070	3	0Artwork	[tourism]=artwork	tourism_artwork	287	169	244		0	3603	10345	
+2690	3	0Attraction	[tourism]=attraction	tourism_attraction	64	65535	17		0	0	60975	
+2580	3	0Campsite	[tourism]=camp_site	tourism_camp_site	51	65535	20		0	0	44955	
+2570	3	0Caravan Site RV Park	[tourism]=caravan_site	tourism_caravan_site	52	65535	19		0	0	18473	
+2530	3	0Chalet	[tourism]=chalet	tourism_chalet	58	65535	208		0	0	54140	
+2510	3	0Guest House Bed & Breakfast	[tourism]=guest_house	tourism_guest_house	53	65535	206		0	0	46728	
+2540	3	0Hostel	[tourism]=hostel	tourism_hostel	55	65535	209		0	0	15339	
+2490	3	0Hotel	[tourism]=hotel	tourism_hotel	56	65535	114		0	0	165863	
+2770	3	0Other Information Point	[tourism]=information	tourism_information	268	65535	222		0	0	2648	
+2760	3	0Audio Guide	[tourism]=information [information]=audioguide	tourism_information_audioguide	267	65535	65535		0	0	5	
+2730	3	0Information Board	[tourism]=information [information]=board	tourism_information_board	264	65535	65535		0	0	671	
+2720	3	0Map	[tourism]=information [information]=map	tourism_information_map	263	65535	65535		0	0	141	
+2710	3	0Information Office	[tourism]=information [information]=office	tourism_information_office	61	65535	221		0	0	7707	
+2750	3	0Information Terminal	[tourism]=information [information]=terminal	tourism_information_terminal	266	65535	65535		0	0	53	
+2500	3	0Motel	[tourism]=motel	tourism_motel	57	65535	205		0	0	20977	
+3030	3	0Museum	[tourism]=museum	tourism_museum	60	65535	240		0	0	43062	
+2920	3	0Picnic Site	[tourism]=picnic_site	tourism_picnic_site	59	65535	18		0	0	23614	
+2830	3	0Amusement Theme Park	[tourism]=theme_park	tourism_theme_park	63	65535	15		0	0	5992	
+2700	3	0Viewpoint	[tourism]=viewpoint	tourism_viewpoint	62	65535	220		0	0	4791	
+2560	3	0Wilderness Hut	[tourism]=wilderness_hut	tourism_wilderness_hut	260	65535	211		0	0	5787	
+2810	3	0Zoo	[tourism]=zoo	tourism_zoo	65	65535	16		0	0	5484	
+520	4	0Grade1	[tracktype]=grade1	track_grade1	65535	57	150	areayes	0	1268362	387	
+530	4	0Grade2	[tracktype]=grade2	track_grade2	65535	56	151	areayes	0	1978035	830	
+540	4	0Grade3	[tracktype]=grade3	track_grade3	65535	55	152	areayes	0	2364200	203	
+550	4	0Grade4	[tracktype]=grade4	track_grade4	65535	54	153	areayes	0	1802261	43	
+560	4	0Grade5	[tracktype]=grade5	track_grade5	65535	53	154	areayes	0	1480076	23	
+760	4	0Bump	[traffic_calming]=bump	traffic calming_bump	184	133	65535		0	3644	0	
+770	4	0Chicane	[traffic_calming]=chicane	traffic calming_chicane	185	134	65535		0	2261	0	
+780	4	0Choker	[traffic_calming]=choker	traffic calming_choker	186	135	65535		0	2920	0	
+790	4	0Cushion	[traffic_calming]=cushion	traffic calming_cushion	187	136	65535		0	1567	0	
+800	4	0Hump	[traffic_calming]=hump	traffic calming_hump	188	137	65535		0	5335	0	
+810	4	0Island	[traffic_calming]=island	traffic calming_island	189	138	65535		0	83926	0	
+820	4	0Rumble strip	[traffic_calming]=rumble_strip	traffic calming_rumble_strip	190	139	65535		0	1198	0	
+830	4	0Table	[traffic_calming]=table	traffic calming_table	191	140	65535		0	38296	0	
+870	3	0City Limit Sign	[traffic_sign]=city_limit	traffic_sign_city_limit	195	65535	65535		0	0	0	
+880	3	0Speed Limit Sign	[traffic_sign]=maxspeed	traffic_sign_maxspeed	196	65535	65535		0	0	0	
+1390	3	0Culvert	[tunnel]=culvert	tunnel_culvert	65535	153	65535		0	0	0	
+1400	3	0Penstock	[usage]=penstock [waterway]=pressurised [man_made]=pipeline [substance]=water	usage_penstock	65535	154	65535		0	5198	0	
+1600	3	0Boatyard	[waterway]=boatyard	waterway_boatyard	228	65535	185		0	0	3125	
+1320	3	0Canal	[waterway]=canal	waterway_canal	65535	7	65535		0	964806	0	
+1360	3	0Dam	[waterway]=dam	waterway_dam	220	9	177		0	112426	50694	
+1290	3	0Water Ditch	[waterway]=ditch	waterway_ditch	65535	5	65535		0	3509188	0	
+1610	3	0Dock	[waterway]=dock	waterway_dock	229	65535	61		0	0	4633	
+1280	3	0Drain	[waterway]=drain	waterway_drain	65535	4	65535		0	1547628	0	
+1550	3	0Marine Fuel	[waterway]=fuel	waterway_fuel	225	65535	184		0	0	290	
+1570	3	0Lock Gate	[waterway]=lock_gate	waterway_lock_gate	106	155	65535		0	5684	0	
+1310	3	0River	[waterway]=river	waterway_river	65535	8	65535		0	1722687	0	
+1460	3	0Riverbank	[waterway]=riverbank	waterway_riverbank	65535	65535	58		0	0	231	
+1300	3	0Stream	[waterway]=stream	waterway_stream	65535	6	65535		0	18255260	0	
+1580	3	0Turning Point	[waterway]=turning_point	waterway_turning_point	227	65535	65535		0	0	0	
+1340	3	0Waterfall	[waterway]=waterfall	waterway_waterfall	218	151	65535		0	2689	0	
+1350	3	0Weir	[waterway]=weir	waterway_weir	219	2	65535		0	65318	0	
+470	3	0Road Restrictions	[access]!=	access_wildcard	179	128	148		0	0	0	
+1251	3	0Other Barrier	[barrier]!=	barrier_wildcard	65535	89	65535		0	320688	0	
+2771	3	0Other Tourism	[tourism]!=	tourism_wildcard	66	65535	65535		0	0	0	
+3660	3	0Internet Access	[internet_access]!=	internet_access_wildcard	309	65535	284		0	0	96067	
+4660	3	0Building	[building]!=	building_wildcard	91	65535	92		0	0	566778588	
+4670	3	0Building part	[building:part]!=	building_part_wildcard	65535	65535	91		0	0	2822323	
+4680	3	0Entrance	[entrance]!=	entrance_wildcard	378	65535	65535		0	0	0	
+5010	3	0Bridge	[bridge]!=	bridge_wildcard	65535	177	65535		0	0	0	
+5030	3	0Bridge Support	[bridge:support]!=	bridge_support_wildcard	397	65535	366		0	0	11862	
+5621	3	0Other Historic	[historic]!=	historic_wildcard	69	65535	65535		0	0	0	
+5810	3	0Organic	[organic]!=	organic_wildcard	445	65535	418		0	0	5063	
+5820	3	0Fair Trade	[fair_trade]!=	fair_trade_wildcard	446	65535	419		0	0	287	
+6581	3	0Other Shop	[shop]!=	shop_wildcard	90	65535	65535		0	0	0	
+6600	2	0Payment Methods	[payment]!=	payment_wildcard	497	65535	65535		0	0	0	
+7211	4	0Other Admin_level	[admin_level]!=	admin_level_wildcard	65535	95	65535		0	13229	0	
+7261	3	0Other Boundary	[boundary]!=	boundary_wildcard	65535	107	65535		0	1364676	0	
+7441	3	0Other Place	[place]!=	place_wildcard	65535	65535	103		0	0	524674	
+8170	2	0Other Amenity	[amenity]!=	amenity_wildcard	49	65535	65535		0	0	0	
+8210	2	0Other Addr housename	[addr:housename]!=	addr_housename_wildcard	161	65535	65535		0	0	0	
+8220	2	0Other Addr housenumber	[addr:housenumber]!=	addr_housenumber_wildcard	162	65535	65535		0	0	0	
+8260	2	0Other Way	[other]!=	other_way	65535	108	65535		0	61	0	
+***
+***
+***
+6092889	4315582	16748757	82154644	12131093	642073	16695964
+955223105	211	26236664

@@ -1,0 +1,162 @@
+0	Tahoma	Latin.	Basic Latin
+1	Tahoma	Latin.	Latin-1 Supplement
+2	Tahoma	Latin.	Latin Extended-A
+3	Tahoma	Latin.	Latin Extended-B
+4	Tahoma	Latin.	IPA Extensions
+5	Tahoma	Latin.	Spacing Modifier Letters
+6	Noto Sans	Inherited	Combining Diacritical Marks
+7	Noto Sans	Greek.	Greek and Coptic
+8	Noto Sans	Cyrillic.	Cyrillic
+9	Noto Sans	Cyrillic.	Cyrillic Supplement
+10	Noto Sans Armenian	Armenian.	Armenian
+11	Noto Sans Hebrew	Hebrew.	Hebrew
+12	Noto Sans Arabic	Arabic.	Arabic
+13	Noto Sans Syriac Estrangela	Syriac.	Syriac
+14	Noto Sans Arabic	Arabic.	Arabic Supplement
+15	Noto Sans Thaana	Thaana.	Thaana
+16	Noto Sans NKo	Nko.	NKo
+17	Noto Sans Samaritan	Samaritan.	Samaritan
+18	Noto Sans Mandaic	Mandaic.	Mandaic
+19	Noto Sans Syriac Estrangela	Syriac.	Syriac Supplement
+20	Noto Sans Arabic	Arabic.	Arabic Extended-A
+21	Noto Sans Devanagari	Devanagari.	Devanagari
+22	Noto Sans Bengali	Bengali.	Bengali
+23	Noto Sans Gurmukhi	Gurmukhi.	Gurmukhi
+24	Noto Sans Gujarati	Gujarati.	Gujarati
+25	Noto Sans Oriya	Oriya.	Oriya
+26	Noto Sans Tamil	Tamil.	Tamil
+27	Noto Sans Telugu	Telugu.	Telugu
+28	Noto Sans Kannada	Kannada.	Kannada
+29	Noto Sans Malayalam	Malayalam.	Malayalam
+30	Noto Sans Sinhala	Sinhala.	Sinhala
+31	Noto Sans Thai	Thai.	Thai
+32	Noto Sans Lao	Lao.	Lao
+33	Noto Sans Tibetan	Tibetan.	Tibetan
+34	Noto Sans Myanmar	Myanmar.	Myanmar
+35	Noto Sans Georgian	Georgian.	Georgian
+36	Noto Sans CJK JP	Hangul.	Hangul Jamo
+37	Noto Sans Ethiopic	Ethiopic.	Ethiopic
+38	Noto Sans Ethiopic	Ethiopic.	Ethiopic Supplement
+39	Noto Sans Cherokee	Cherokee.	Cherokee
+40	Noto Sans Canadian Aboriginal	Canadian Aboriginal.	Unified Canadian Aboriginal Syllabics
+41	Noto Sans Ogham	Ogham.	Ogham
+42	Noto Sans Runic	Runic.	Runic
+43	Noto Sans Tagalog	Tagalog.	Tagalog
+44	Noto Sans Hanunoo	Hanunoo.	Hanunoo
+45	Noto Sans Buhid	Buhid.	Buhid
+46	Noto Sans Tagbanwa	Tagbanwa.	Tagbanwa
+47	Noto Sans Khmer	Khmer.	Khmer
+48	Noto Sans Mongolian	Mongolian.	Mongolian
+49	Noto Sans Canadian Aboriginal	Canadian Aboriginal.	Unified Canadian Aboriginal Syllabics Extended
+50	Noto Sans Limbu	Limbu.	Limbu
+51	Noto Sans Tai Le	Tai Le.	Tai Le
+52	Noto Sans New Tai Lue	New Tai Lue.	New Tai Lue
+53	Noto Sans Khmer	Khmer.	Khmer Symbols
+54	Noto Sans Buginese	Buginese.	Buginese
+55	Noto Sans Tai Tham	Tai Tham.	Tai Tham
+56	Noto Sans Tai Tham	Inherited	Combining Diacritical Marks Extended
+57	Noto Sans Tai Tham	Balinese.	Balinese
+58	Noto Sans Sundanese	Sundanese.	Sundanese
+59	Noto Sans Batak	Batak.	Batak
+60	Noto Sans Lepcha	Lepcha.	Lepcha
+61	Noto Sans Ol Chiki	Ol Chiki.	Ol Chiki
+62	Noto Sans	Cyrillic.	Cyrillic Extended-C
+63	Noto Sans Sundanese	Sundanese.	Sundanese Supplement
+64	Noto Sans Devanagari	Common	Vedic Extensions
+65	Tahoma	Latin.	Phonetic Extensions
+66	Tahoma	Latin.	Phonetic Extensions Supplement
+67	Noto Sans	Inherited	Combining Diacritical Marks Supplement
+68	Tahoma	Latin.	Latin Extended Additional
+69	Noto Sans	Greek.	Greek Extended
+70	Noto Sans	Common	General Punctuation
+71	Tahoma	Latin.	Superscripts and Subscripts
+72	Noto Sans Symbols	Common	Currency Symbols
+73	Noto Sans Symbols	Inherited	Combining Diacritical Marks for Symbols
+74	Tahoma	Latin.	Letterlike Symbols
+75	Tahoma	Latin.	Number Forms
+76	Noto Sans Symbols	Common	Arrows
+77	Noto Sans Symbols	Common	Mathematical Operators
+78	Noto Sans Symbols	Common	Miscellaneous Technical
+79	Noto Sans Symbols	Common	Control Pictures
+80	Noto Sans Symbols	Common	Optical Character Recognition
+81	Noto Sans Symbols	Common	Enclosed Alphanumerics
+82	Noto Sans Symbols	Common	Box Drawing
+83	Noto Sans Symbols	Common	Block Elements
+84	Noto Sans Symbols	Common.	Geometric Shapes
+85	Noto Sans Symbols	Common	Miscellaneous Symbols
+86	Noto Sans Symbols	Common	Dingbats
+87	Noto Sans Symbols	Common	Miscellaneous Mathematical Symbols-A
+88	Noto Sans Symbols	Common	Supplemental Arrows-A
+89	Noto Sans Symbols	Braille	Braille Patterns
+90	Noto Sans Symbols	Common	Supplemental Arrows-B
+91	Noto Sans Symbols	Common	Miscellaneous Mathematical Symbols-B
+92	Noto Sans Symbols	Common	Supplemental Mathematical Operators
+93	Noto Sans Symbols	Common	Miscellaneous Symbols and Arrows
+94	Noto Sans Glagolitic	Glagolitic.	Glagolitic
+95	Tahoma	Latin.	Latin Extended-C
+96	Noto Sans Coptic	Coptic.	Coptic
+97	Noto Sans Georgian	Georgian.	Georgian Supplement
+98	Noto Sans Tifinagh	Tifinagh.	Tifinagh
+99	Noto Sans Ethiopic	Ethiopic.	Ethiopic Extended
+100	Noto Sans	Cyrillic.	Cyrillic Extended-A
+101	Noto Sans Symbols	Common	Supplemental Punctuation
+102	Noto Sans CJK JP	Han.	CJK Radicals Supplement
+103	Noto Sans CJK JP	Han.	Kangxi Radicals
+104	Noto Sans CJK JP	Common	Ideographic Description Characters
+105	Noto Sans CJK JP	Han.	CJK Symbols and Punctuation
+106	Noto Sans CJK JP	Hiragana.	Hiragana
+107	Noto Sans CJK JP	Katakana.	Katakana
+108	Noto Sans CJK JP	Bopomofo.	Bopomofo
+109	Noto Sans CJK JP	Hangul.	Hangul Compatibility Jamo
+110	Noto Sans CJK JP	Common	Kanbun
+111	Noto Sans CJK JP	Bopomofo.	Bopomofo Extended
+112	Noto Sans CJK JP	Common	CJK Strokes
+113	Noto Sans CJK JP	Katakana.	Katakana Phonetic Extensions
+114	Noto Sans CJK JP	Hangul.	Enclosed CJK Letters and Months
+115	Noto Sans CJK JP	Katakana.	CJK Compatibility
+116	Noto Sans CJK JP	Han.	CJK Unified Ideographs Extension A
+117	Noto Sans Symbols	Common	Yijing Hexagram Symbols
+118	Noto Sans CJK JP	Han.	CJK Unified Ideographs
+119	Noto Sans Yi	Yi.	Yi Syllables
+120	Noto Sans Yi	Yi.	Yi Radicals
+121	Noto Sans Lisu	Lisu.	Lisu
+122	Noto Sans Vai	Vai.	Vai
+123	Noto Sans	Cyrillic.	Cyrillic Extended-B
+124	Noto Sans Bamum	Bamum.	Bamum
+125	Noto Sans Symbols	Common	Modifier Tone Letters
+126	Tahoma	Latin.	Latin Extended-D
+127	Noto Sans Syloti Nagri	Syloti Nagri.	Syloti Nagri
+128	Noto Sans Devanagari	Common	Common Indic Number Forms
+129	Noto Sans Phags Pa	Phags Pa.	Phags-pa
+130	Noto Sans Saurashtra	Saurashtra.	Saurashtra
+131	Noto Sans Devanagari	Devanagari.	Devanagari Extended
+132	Noto Sans Devanagari	Kayah Li.	Kayah Li
+133	Noto Sans Rejang	Rejang.	Rejang
+134	Noto Sans CJK JP	Hangul.	Hangul Jamo Extended-A
+135	Noto Sans Javanese	Javanese.	Javanese
+136	Noto Sans Myanmar	Myanmar.	Myanmar Extended-B
+137	Noto Sans Cham	Cham.	Cham
+138	Noto Sans Myanmar	Myanmar.	Myanmar Extended-A
+139	Noto Sans Tai Viet	Tai Viet.	Tai Viet
+140	Noto Sans Meetei Mayek	Meetei Mayek.	Meetei Mayek Extensions
+141	Noto Sans Ethiopic	Ethiopic.	Ethiopic Extended-A
+142	Tahoma	Latin.	Latin Extended-E
+143	Noto Sans Cherokee	Cherokee.	Cherokee Supplement
+144	Noto Sans Meetei Mayek	Meetei Mayek.	Meetei Mayek
+145	Noto Sans CJK JP	Hangul.	Hangul Syllables
+146	Noto Sans CJK JP	Hangul.	Hangul Jamo Extended-B
+147	Noto Sans CJK JP	Unknown	High Surrogates
+148	Noto Sans CJK JP	Unknown	High Private Use Surrogates
+149	Noto Sans CJK JP	Unknown	Low Surrogates
+150	Noto Sans CJK JP	Unknown	Private Use Area
+151	Noto Sans CJK JP	Han.	CJK Compatibility Ideographs
+152	Noto Sans Hebrew	Hebrew.	Alphabetic Presentation Forms
+153	Noto Sans Arabic	Arabic.	Arabic Presentation Forms-A
+154	Noto Naskh Arabic	Inherited	Variation Selectors
+155	Noto Naskh Arabic	Common	Vertical Forms
+156	Noto Sans	Cyrillic.	Combining Half Marks
+157	Noto Sans CJK JP	Common	CJK Compatibility Forms
+158	Noto Sans CJK JP	Common	Small Form Variants
+159	Noto Sans Arabic	Arabic.	Arabic Presentation Forms-B
+160	Tahoma	Latin.	Halfwidth and Fullwidth Forms
+161	Noto Sans Symbols	Common	Specials
