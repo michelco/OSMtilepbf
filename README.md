@@ -1,1 +1,1 @@
-http://www.mozilla.org/MPL/2.0/
+https://github.com/michelco/OSMtilepbf/siteFR1.html
