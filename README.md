@@ -5,5 +5,3 @@
 
 [Setup](https://github.com/michelco/OSMtilepbf/blob/main/setup.exe)
 
-
-https://github.com/numpy/numpy/blob/main/doc/source/_static/favicon/apple-touch-icon.png
