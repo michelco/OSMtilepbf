@@ -3,4 +3,4 @@
 [OSMtilepbf ReadMe in ENG](http://195.15.228.159/public/siteEN1.html)
 
 
-[Setup](http://195.15.228.159/public/setup.exe)
+[Setup](https://github.com/michelco/OSMtilepbf/setup.exe)
