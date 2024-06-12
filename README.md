@@ -4,7 +4,7 @@
 
 [OSMtilepbf ReadMe in FRA](http://htmlpreview.github.io/?url=https://github.com/michelco/OSMtilepbf/blob/master/ReadMeFRA.html)
 
-[OSMtilepbf ReadMe in ENG](https://github.com/michelco/OSMtilepbf/blob/main/ReadMeENG.html)
+[OSMtilepbf ReadMe in ENG](https://github.com/michelco/OSMtilepbf/blob/main/ReadMeENG.html?raw=true)
 
 [Download raw file Setup.exe](https://github.com/michelco/OSMtilepbf/blob/main/setup.exe?raw=true)
 
