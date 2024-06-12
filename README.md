@@ -2,7 +2,7 @@
 
 [OSMtilepbf ReadMe in ENG](http://195.15.228.159/public/ReadMeENG.html)
 
-[OSMtilepbf ReadMe in FRA](https://github.com/michelco/OSMtilepbf/ReadMeFRA.html)
+[OSMtilepbf ReadMe in FRA](http://htmlpreview.github.io/?https://github.com/michelco/OSMtilepbf/blob/ReadMeFRA.html)
 
 [OSMtilepbf ReadMe in ENG](https://github.com/michelco/OSMtilepbf/blob/main/ReadMeENG.html)
 
