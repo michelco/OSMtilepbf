@@ -1,0 +1,143 @@
+<html lang="en">
+<div>
+ <br/>
+	<h1 style="text-align: center;">
+	<U>
+		Atlas-OSM
+	</U>
+	</h1>
+</div>
+<p>
+	<img src="http://195.15.228.159/public/OSMtilepbf/STARTDATA/ICONS/Atlas30.gif"
+	     alt="http://195.15.228.159/public/OSMtilepbf/STARTDATA/ICONS/Atlas30.gif"
+	     width="250"
+	     height="250"
+	     style="float: left;margin-left: 2em;"/>
+</p>
+<div style="margin-left: 19em;" >
+	<span>
+    <br/>	
+		<strong>Atlas-OSM is a program for viewing, configuring, extracting,&hellip; the OpenStreetMap database</strong>.</span>
+	<br/>
+	<span style="font-size: 15px;">The basic principle is the division into vector tiles.<br/>They are in pbf format with a slightly different protocol from the standard &lsquo;.osm.pbf&rsquo;<br/>(addition of coordinates, clip points and tags among others).<br/>
+	</span>
+
+	<span> <strong> Tags</strong> Areas :531 Lines :153 Nodes :548<br/>To have the complete drills at all zooms, the Global Forest Hansen database is processed :</span>
+	<br/>
+	<a href="https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.2.html"
+	   target="_blank"
+	   rel="noopener">
+		<span>
+			<u>https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.2.html</u>
+		</span>
+	</a>
+	<br/>The relief (zoom&lt;14) is SRTM 3s with the additions of:&nbsp;<br/>
+	<a href="http://www.viewfinderpanoramas.org/dem3.html"
+	   target="_blank"
+	   rel="noopener">
+		<span>
+			<u>http://www.viewfinderpanoramas.org/dem3.html<br/>
+			</u>
+		</span>
+	</a>The relief (zoom&gt;=14)is AW3D30 (DSM and not DTM zoom correction zoom&gt;14) :&nbsp;<br/>
+	<a href="https://www.eorc.jaxa.jp/ALOS/en/aw3d30/index.htm"
+	   target="_blank"
+	   rel="noopener">
+		<span>
+			<u>https://www.eorc.jaxa.jp/ALOS/en/aw3d30/index.htm</u>
+		</span>
+	</a>
+	<br/>
+	<br/>
+	<br/>
+	</div>
+<div style="margin-left: 2em;">
+     <br/>
+	This program works in spherical and Mercator. The file format is called &lsquo;.osmtile.pbf&rsquo;<br/>
+	<br/>I built reduced vector databases for the Zoom 5, 7, 9, 11, 14 and then from the zoom 15 this is the original OSM database. <br/>
+	<U>You can modify everything on the graphics:</U>
+	<br/>Button with&nbsp;<strong>
+		<img src="http://195.15.228.159/public/siteimg/cle1.png"
+		     alt=""/>&nbsp;</strong>and Double Click on an element including changing icons from SVG.<br/>The fonts are independent of Windows and can be modified
+	 <br/>
+			 I remade the fonts mostly from "Google Noto Fonts" to handle all languages and ICU.
+	<br/>You can extract&nbsp;<strong>
+		<img src="http://195.15.228.159/public/siteimg/disk1.png"
+		     alt=""/>
+	</strong>&nbsp;in the original pbf format (.osm.pbf) with selections of boundaries or rectangle or poly.<br/>Then we can&nbsp;<strong>
+		<img src="http://195.15.228.159/public/siteimg/open1.png"
+		     alt=""/>&nbsp;</strong>import the standard pbf back into the atlas in &lsquo;.osmtile.pbf&rsquo; format.<br/>And lots of other things &hellip;<br/>
+	<br/>Warning: Start the extractions with areas that are not too large (admin 8 or Admin 6) to test :
+	<br/>For example Bouches du Rhone (FR) ID 7393 if the tiles are already loaded:<br/>Zoom 20: 35s to extract to osm.pbf and 68s to convert to osmtile.pbf with CoreI7+SSD<br/>Zoom 14: 7s to extract to osm.pbf and 11s pour convert to osmtile.pbf with CoreI7+SSD
+<br/>
+<br/>
+<U><strong>Examples :</strong></U>
+<br/>
+Extraction of France in zoom 7 :
+
+	<a href="http://195.15.228.159/public/siteimg/FRZ7.jpg"
+	   target="_blank"
+	   rel="noopener">
+	   FRZ7</a>
+<br/>
+Extraction of Briancon in zoom14 :
+
+	<a href="http://195.15.228.159/public/siteimg/BrianconZ14.jpg"
+	   target="_blank"
+	   rel="noopener">
+	   BrianconZ14</a>
+<br/>
+An example of level lines with AW3D30 :
+
+	<a href="http://195.15.228.159/public/siteimg/topo.jpg"
+	   target="_blank"
+	   rel="noopener">
+		<u>topo</u>
+	</a>
+	<a href="http://195.15.228.159/public/siteimg/Video1.mp4"
+	   target="_blank"
+	   rel="noopener">
+		<br/><u>Video1</u><br/>
+	</a>
+	
+	<a href="http://195.15.228.159/public/siteimg/Video2.mp4"
+	   target="_blank"
+	   rel="noopener">
+		<u>Video2</u><br/>
+	</a>
+	
+	<a href="http://195.15.228.159/public/siteimg/Video3.mp4"
+	   target="_blank"
+	   rel="noopener">
+		<u>Video3</u>
+	</a>
+	<br/>
+	<br/>
+	
+	
+	
+    <U><strong>Download:</strong></U>&nbsp;
+	 <a href='https://github.com/michelco/OSMtilepbf/blob/main/setup.exe?raw=true'
+	    target="_blank"
+	    rel="noopener">
+	<u>Windows 64-bit (installer setup.exe)</u>
+	 </a>
+	<br/> 
+	
+    <U><strong>Download:</strong></U>&nbsp; 
+    <a href='https://github.com/michelco/OSMtilepbf/archive/master.zip'
+       target="_blank"
+	   rel="noopener">
+	<u>Windows 64-bit (portable OSMtilepbf-main.zip)</u>	
+    </a>
+	<br/>
+	Choice of disk: allow some space for the caches
+	<br/>
+	<U><strong>Run program Atlas_OSM  :</strong></U>&nbsp; (\PRG\Atlas_OSM.exe)
+	<br/>
+	
+	<br/>No doubt a few more bugs, .. the current OSM version is that of 05/13/24..<br/> The program is 32 bits, the extraction programs are 64 bits. At least 4 GB of memory is required.<br/>It takes about 4 days of calculations to process a new base (the reductions are the longest).<br/>There will likely be an update about once a month or every two months.<br/>
+	<br/>
+</div>
+<hr/>
+</html>
