@@ -8,3 +8,6 @@
 
 [Download raw file Setup.exe](https://github.com/michelco/OSMtilepbf/blob/main/setup.exe?raw=true)
 
+
+[Windows 64-bit (portable OSMtilepbf-main.zip](https://github.com/michelco/OSMtilepbf/archive/master.zip)
+
