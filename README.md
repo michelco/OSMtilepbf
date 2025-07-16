@@ -6,3 +6,5 @@
 
 [Windows 64-bit (portable OSMtilepbf-main.zip](https://github.com/michelco/OSMtilepbf/archive/master.zip)
 
+[Windows 64-bit (portable OSMtilepbf.zip](https://github.com/michelco/OSMtilepbf/archive/master.zip)
+
